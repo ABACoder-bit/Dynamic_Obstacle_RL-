@@ -1,0 +1,721 @@
+T1: 100 run
+
+v1
+coca@coca-Precision-5530:~/Desktop/Minor_Project/Aditya_Robotics_project/v2$ /usr/bin/python3 Compare_APF.py
+
+===== RUNNING Q_LEARNING AGENT =====
+
+Episode 001 | CRASHED       | Steps: 16
+Episode 002 | REACHED GOAL  | Steps: 22
+Episode 003 | CRASHED       | Steps: 21
+Episode 004 | REACHED GOAL  | Steps: 22
+Episode 005 | REACHED GOAL  | Steps: 22
+Episode 006 | REACHED GOAL  | Steps: 29
+Episode 007 | REACHED GOAL  | Steps: 22
+Episode 008 | REACHED GOAL  | Steps: 22
+Episode 009 | REACHED GOAL  | Steps: 24
+Episode 010 | CRASHED       | Steps: 14
+Episode 011 | REACHED GOAL  | Steps: 22
+Episode 012 | CRASHED       | Steps: 3
+Episode 013 | CRASHED       | Steps: 8
+Episode 014 | REACHED GOAL  | Steps: 22
+Episode 015 | REACHED GOAL  | Steps: 22
+Episode 016 | CRASHED       | Steps: 9
+Episode 017 | REACHED GOAL  | Steps: 26
+Episode 018 | REACHED GOAL  | Steps: 22
+Episode 019 | REACHED GOAL  | Steps: 22
+Episode 020 | CRASHED       | Steps: 5
+Episode 021 | CRASHED       | Steps: 8
+Episode 022 | CRASHED       | Steps: 23
+Episode 023 | CRASHED       | Steps: 12
+Episode 024 | CRASHED       | Steps: 5
+Episode 025 | REACHED GOAL  | Steps: 22
+Episode 026 | REACHED GOAL  | Steps: 23
+Episode 027 | CRASHED       | Steps: 8
+Episode 028 | CRASHED       | Steps: 4
+Episode 029 | REACHED GOAL  | Steps: 30
+Episode 030 | REACHED GOAL  | Steps: 22
+Episode 031 | CRASHED       | Steps: 7
+Episode 032 | REACHED GOAL  | Steps: 22
+Episode 033 | CRASHED       | Steps: 5
+Episode 034 | REACHED GOAL  | Steps: 22
+Episode 035 | REACHED GOAL  | Steps: 22
+Episode 036 | REACHED GOAL  | Steps: 22
+Episode 037 | CRASHED       | Steps: 6
+Episode 038 | REACHED GOAL  | Steps: 24
+Episode 039 | REACHED GOAL  | Steps: 22
+Episode 040 | CRASHED       | Steps: 8
+Episode 041 | CRASHED       | Steps: 8
+Episode 042 | CRASHED       | Steps: 2
+Episode 043 | CRASHED       | Steps: 4
+Episode 044 | REACHED GOAL  | Steps: 22
+Episode 045 | CRASHED       | Steps: 4
+Episode 046 | REACHED GOAL  | Steps: 22
+Episode 047 | REACHED GOAL  | Steps: 24
+Episode 048 | LOOP          | Steps: 24
+Episode 049 | CRASHED       | Steps: 21
+Episode 050 | REACHED GOAL  | Steps: 22
+Episode 051 | CRASHED       | Steps: 9
+Episode 052 | REACHED GOAL  | Steps: 28
+Episode 053 | REACHED GOAL  | Steps: 22
+Episode 054 | REACHED GOAL  | Steps: 24
+Episode 055 | REACHED GOAL  | Steps: 22
+Episode 056 | REACHED GOAL  | Steps: 22
+Episode 057 | CRASHED       | Steps: 8
+Episode 058 | CRASHED       | Steps: 8
+Episode 059 | REACHED GOAL  | Steps: 26
+Episode 060 | CRASHED       | Steps: 25
+Episode 061 | REACHED GOAL  | Steps: 30
+Episode 062 | REACHED GOAL  | Steps: 22
+Episode 063 | CRASHED       | Steps: 3
+Episode 064 | CRASHED       | Steps: 16
+Episode 065 | REACHED GOAL  | Steps: 24
+Episode 066 | CRASHED       | Steps: 4
+Episode 067 | REACHED GOAL  | Steps: 24
+Episode 068 | REACHED GOAL  | Steps: 22
+Episode 069 | CRASHED       | Steps: 10
+Episode 070 | REACHED GOAL  | Steps: 22
+Episode 071 | REACHED GOAL  | Steps: 22
+Episode 072 | REACHED GOAL  | Steps: 24
+Episode 073 | CRASHED       | Steps: 6
+Episode 074 | REACHED GOAL  | Steps: 22
+Episode 075 | REACHED GOAL  | Steps: 22
+Episode 076 | REACHED GOAL  | Steps: 22
+Episode 077 | CRASHED       | Steps: 13
+Episode 078 | CRASHED       | Steps: 14
+Episode 079 | CRASHED       | Steps: 2
+Episode 080 | CRASHED       | Steps: 8
+Episode 081 | CRASHED       | Steps: 7
+Episode 082 | REACHED GOAL  | Steps: 22
+Episode 083 | LOOP          | Steps: 27
+Episode 084 | CRASHED       | Steps: 2
+Episode 085 | REACHED GOAL  | Steps: 22
+Episode 086 | REACHED GOAL  | Steps: 22
+Episode 087 | REACHED GOAL  | Steps: 22
+Episode 088 | CRASHED       | Steps: 18
+Episode 089 | CRASHED       | Steps: 3
+Episode 090 | REACHED GOAL  | Steps: 22
+Episode 091 | CRASHED       | Steps: 11
+Episode 092 | CRASHED       | Steps: 23
+Episode 093 | REACHED GOAL  | Steps: 22
+Episode 094 | REACHED GOAL  | Steps: 22
+Episode 095 | REACHED GOAL  | Steps: 26
+Episode 096 | REACHED GOAL  | Steps: 22
+Episode 097 | CRASHED       | Steps: 3
+Episode 098 | CRASHED       | Steps: 1
+Episode 099 | REACHED GOAL  | Steps: 24
+Episode 100 | CRASHED       | Steps: 3
+
+===== RUNNING APF AGENT =====
+
+Episode 001 | REACHED GOAL  | Steps: 22
+Episode 002 | CRASHED       | Steps: 14
+Episode 003 | CRASHED       | Steps: 4
+Episode 004 | REACHED GOAL  | Steps: 22
+Episode 005 | CRASHED       | Steps: 4
+Episode 006 | REACHED GOAL  | Steps: 22
+Episode 007 | CRASHED       | Steps: 16
+Episode 008 | REACHED GOAL  | Steps: 22
+Episode 009 | CRASHED       | Steps: 14
+Episode 010 | REACHED GOAL  | Steps: 22
+Episode 011 | CRASHED       | Steps: 13
+Episode 012 | CRASHED       | Steps: 12
+Episode 013 | CRASHED       | Steps: 14
+Episode 014 | REACHED GOAL  | Steps: 22
+Episode 015 | REACHED GOAL  | Steps: 22
+Episode 016 | REACHED GOAL  | Steps: 22
+Episode 017 | LOOP          | Steps: 25
+Episode 018 | REACHED GOAL  | Steps: 22
+Episode 019 | CRASHED       | Steps: 16
+Episode 020 | REACHED GOAL  | Steps: 22
+Episode 021 | CRASHED       | Steps: 12
+Episode 022 | REACHED GOAL  | Steps: 22
+Episode 023 | REACHED GOAL  | Steps: 22
+Episode 024 | CRASHED       | Steps: 7
+Episode 025 | REACHED GOAL  | Steps: 22
+Episode 026 | REACHED GOAL  | Steps: 22
+Episode 027 | CRASHED       | Steps: 6
+Episode 028 | REACHED GOAL  | Steps: 22
+Episode 029 | LOOP          | Steps: 25
+Episode 030 | REACHED GOAL  | Steps: 22
+Episode 031 | REACHED GOAL  | Steps: 22
+Episode 032 | CRASHED       | Steps: 5
+Episode 033 | REACHED GOAL  | Steps: 22
+Episode 034 | REACHED GOAL  | Steps: 22
+Episode 035 | CRASHED       | Steps: 4
+Episode 036 | REACHED GOAL  | Steps: 22
+Episode 037 | CRASHED       | Steps: 15
+Episode 038 | REACHED GOAL  | Steps: 24
+Episode 039 | CRASHED       | Steps: 9
+Episode 040 | CRASHED       | Steps: 9
+Episode 041 | LOOP          | Steps: 26
+Episode 042 | CRASHED       | Steps: 11
+Episode 043 | CRASHED       | Steps: 15
+Episode 044 | REACHED GOAL  | Steps: 22
+Episode 045 | LOOP          | Steps: 36
+Episode 046 | CRASHED       | Steps: 10
+Episode 047 | CRASHED       | Steps: 1
+Episode 048 | CRASHED       | Steps: 4
+Episode 049 | CRASHED       | Steps: 14
+Episode 050 | CRASHED       | Steps: 2
+Episode 051 | CRASHED       | Steps: 6
+Episode 052 | REACHED GOAL  | Steps: 22
+Episode 053 | CRASHED       | Steps: 1
+Episode 054 | CRASHED       | Steps: 4
+Episode 055 | REACHED GOAL  | Steps: 22
+Episode 056 | CRASHED       | Steps: 12
+Episode 057 | CRASHED       | Steps: 15
+Episode 058 | REACHED GOAL  | Steps: 22
+Episode 059 | CRASHED       | Steps: 18
+Episode 060 | CRASHED       | Steps: 17
+Episode 061 | REACHED GOAL  | Steps: 22
+Episode 062 | CRASHED       | Steps: 3
+Episode 063 | REACHED GOAL  | Steps: 22
+Episode 064 | REACHED GOAL  | Steps: 24
+Episode 065 | REACHED GOAL  | Steps: 22
+Episode 066 | CRASHED       | Steps: 5
+Episode 067 | CRASHED       | Steps: 17
+Episode 068 | REACHED GOAL  | Steps: 22
+Episode 069 | REACHED GOAL  | Steps: 22
+Episode 070 | CRASHED       | Steps: 3
+Episode 071 | REACHED GOAL  | Steps: 22
+Episode 072 | REACHED GOAL  | Steps: 22
+Episode 073 | REACHED GOAL  | Steps: 22
+Episode 074 | CRASHED       | Steps: 13
+Episode 075 | REACHED GOAL  | Steps: 22
+Episode 076 | REACHED GOAL  | Steps: 22
+Episode 077 | CRASHED       | Steps: 12
+Episode 078 | CRASHED       | Steps: 16
+Episode 079 | CRASHED       | Steps: 18
+Episode 080 | REACHED GOAL  | Steps: 22
+Episode 081 | CRASHED       | Steps: 12
+Episode 082 | REACHED GOAL  | Steps: 24
+Episode 083 | LOOP          | Steps: 26
+Episode 084 | CRASHED       | Steps: 5
+Episode 085 | CRASHED       | Steps: 11
+Episode 086 | CRASHED       | Steps: 12
+Episode 087 | REACHED GOAL  | Steps: 22
+Episode 088 | REACHED GOAL  | Steps: 23
+Episode 089 | REACHED GOAL  | Steps: 22
+Episode 090 | CRASHED       | Steps: 11
+Episode 091 | REACHED GOAL  | Steps: 22
+Episode 092 | CRASHED       | Steps: 3
+Episode 093 | CRASHED       | Steps: 11
+Episode 094 | CRASHED       | Steps: 5
+Episode 095 | REACHED GOAL  | Steps: 22
+Episode 096 | REACHED GOAL  | Steps: 22
+Episode 097 | CRASHED       | Steps: 2
+Episode 098 | CRASHED       | Steps: 11
+Episode 099 | REACHED GOAL  | Steps: 22
+Episode 100 | CRASHED       | Steps: 14
+
+================ FINAL COMPARISON ================
+
+Q-LEARNING RESULTS
+{'success': 54, 'crash': 44, 'loop': 2, 'timeout': 0, 'steps': [16, 22, 21, 22, 22, 29, 22, 22, 24, 14, 22, 3, 8, 22, 22, 9, 26, 22, 22, 5, 8, 23, 12, 5, 22, 23, 8, 4, 30, 22, 7, 22, 5, 22, 22, 22, 6, 24, 22, 8, 8, 2, 4, 22, 4, 22, 24, 24, 21, 22, 9, 28, 22, 24, 22, 22, 8, 8, 26, 25, 30, 22, 3, 16, 24, 4, 24, 22, 10, 22, 22, 24, 6, 22, 22, 22, 13, 14, 2, 8, 7, 22, 27, 2, 22, 22, 22, 18, 3, 22, 11, 23, 22, 22, 26, 22, 3, 1, 24, 3]}
+
+APF RESULTS
+{'success': 45, 'crash': 50, 'loop': 5, 'timeout': 0, 'steps': [22, 14, 4, 22, 4, 22, 16, 22, 14, 22, 13, 12, 14, 22, 22, 22, 25, 22, 16, 22, 12, 22, 22, 7, 22, 22, 6, 22, 25, 22, 22, 5, 22, 22, 4, 22, 15, 24, 9, 9, 26, 11, 15, 22, 36, 10, 1, 4, 14, 2, 6, 22, 1, 4, 22, 12, 15, 22, 18, 17, 22, 3, 22, 24, 22, 5, 17, 22, 22, 3, 22, 22, 22, 13, 22, 22, 12, 16, 18, 22, 12, 24, 26, 5, 11, 12, 22, 23, 22, 11, 22, 3, 11, 5, 22, 22, 2, 11, 22, 14]}
+
+Success Rate Comparison
+Q-Learning Success Rate : 54%
+APF Success Rate        : 45%
+
+
+
+v2 
+
+coca@coca-Precision-5530:~/Desktop/Minor_Project/Aditya_Robotics_project/v2$ /usr/bin/python3 Compare_APF.py
+
+===== RUNNING Q_LEARNING AGENT =====
+
+Episode 001 | LOOP          | Steps: 26
+Episode 002 | REACHED GOAL  | Steps: 22
+Episode 003 | CRASHED       | Steps: 4
+Episode 004 | CRASHED       | Steps: 19
+Episode 005 | REACHED GOAL  | Steps: 23
+Episode 006 | REACHED GOAL  | Steps: 22
+Episode 007 | REACHED GOAL  | Steps: 23
+Episode 008 | REACHED GOAL  | Steps: 22
+Episode 009 | REACHED GOAL  | Steps: 22
+Episode 010 | CRASHED       | Steps: 13
+Episode 011 | CRASHED       | Steps: 5
+Episode 012 | REACHED GOAL  | Steps: 22
+Episode 013 | CRASHED       | Steps: 13
+Episode 014 | REACHED GOAL  | Steps: 22
+Episode 015 | REACHED GOAL  | Steps: 23
+Episode 016 | REACHED GOAL  | Steps: 22
+Episode 017 | CRASHED       | Steps: 16
+Episode 018 | REACHED GOAL  | Steps: 22
+Episode 019 | REACHED GOAL  | Steps: 22
+Episode 020 | REACHED GOAL  | Steps: 22
+Episode 021 | REACHED GOAL  | Steps: 22
+Episode 022 | REACHED GOAL  | Steps: 22
+Episode 023 | REACHED GOAL  | Steps: 22
+Episode 024 | REACHED GOAL  | Steps: 22
+Episode 025 | REACHED GOAL  | Steps: 22
+Episode 026 | REACHED GOAL  | Steps: 22
+Episode 027 | REACHED GOAL  | Steps: 22
+Episode 028 | REACHED GOAL  | Steps: 22
+Episode 029 | REACHED GOAL  | Steps: 22
+Episode 030 | REACHED GOAL  | Steps: 22
+Episode 031 | REACHED GOAL  | Steps: 22
+Episode 032 | REACHED GOAL  | Steps: 26
+Episode 033 | REACHED GOAL  | Steps: 23
+Episode 034 | REACHED GOAL  | Steps: 22
+Episode 035 | CRASHED       | Steps: 14
+Episode 036 | REACHED GOAL  | Steps: 22
+Episode 037 | CRASHED       | Steps: 7
+Episode 038 | REACHED GOAL  | Steps: 22
+Episode 039 | REACHED GOAL  | Steps: 22
+Episode 040 | REACHED GOAL  | Steps: 22
+Episode 041 | REACHED GOAL  | Steps: 22
+Episode 042 | REACHED GOAL  | Steps: 23
+Episode 043 | CRASHED       | Steps: 11
+Episode 044 | CRASHED       | Steps: 12
+Episode 045 | REACHED GOAL  | Steps: 22
+Episode 046 | REACHED GOAL  | Steps: 22
+Episode 047 | CRASHED       | Steps: 12
+Episode 048 | CRASHED       | Steps: 16
+Episode 049 | REACHED GOAL  | Steps: 22
+Episode 050 | CRASHED       | Steps: 3
+Episode 051 | REACHED GOAL  | Steps: 22
+Episode 052 | CRASHED       | Steps: 12
+Episode 053 | CRASHED       | Steps: 11
+Episode 054 | CRASHED       | Steps: 19
+Episode 055 | REACHED GOAL  | Steps: 22
+Episode 056 | REACHED GOAL  | Steps: 22
+Episode 057 | REACHED GOAL  | Steps: 22
+Episode 058 | REACHED GOAL  | Steps: 22
+Episode 059 | REACHED GOAL  | Steps: 23
+Episode 060 | REACHED GOAL  | Steps: 24
+Episode 061 | CRASHED       | Steps: 8
+Episode 062 | REACHED GOAL  | Steps: 22
+Episode 063 | REACHED GOAL  | Steps: 22
+Episode 064 | REACHED GOAL  | Steps: 22
+Episode 065 | CRASHED       | Steps: 2
+Episode 066 | REACHED GOAL  | Steps: 22
+Episode 067 | REACHED GOAL  | Steps: 22
+Episode 068 | REACHED GOAL  | Steps: 24
+Episode 069 | CRASHED       | Steps: 12
+Episode 070 | REACHED GOAL  | Steps: 23
+Episode 071 | CRASHED       | Steps: 19
+Episode 072 | CRASHED       | Steps: 11
+Episode 073 | CRASHED       | Steps: 15
+Episode 074 | REACHED GOAL  | Steps: 22
+Episode 075 | REACHED GOAL  | Steps: 22
+Episode 076 | REACHED GOAL  | Steps: 22
+Episode 077 | REACHED GOAL  | Steps: 22
+Episode 078 | CRASHED       | Steps: 1
+Episode 079 | CRASHED       | Steps: 22
+Episode 080 | REACHED GOAL  | Steps: 23
+Episode 081 | CRASHED       | Steps: 17
+Episode 082 | REACHED GOAL  | Steps: 22
+Episode 083 | CRASHED       | Steps: 18
+Episode 084 | CRASHED       | Steps: 2
+Episode 085 | REACHED GOAL  | Steps: 23
+Episode 086 | CRASHED       | Steps: 6
+Episode 087 | REACHED GOAL  | Steps: 22
+Episode 088 | CRASHED       | Steps: 17
+Episode 089 | REACHED GOAL  | Steps: 22
+Episode 090 | CRASHED       | Steps: 10
+Episode 091 | CRASHED       | Steps: 16
+Episode 092 | REACHED GOAL  | Steps: 22
+Episode 093 | REACHED GOAL  | Steps: 22
+Episode 094 | REACHED GOAL  | Steps: 23
+Episode 095 | CRASHED       | Steps: 16
+Episode 096 | REACHED GOAL  | Steps: 22
+Episode 097 | REACHED GOAL  | Steps: 22
+Episode 098 | CRASHED       | Steps: 4
+Episode 099 | REACHED GOAL  | Steps: 22
+Episode 100 | REACHED GOAL  | Steps: 23
+
+===== RUNNING APF AGENT =====
+
+Episode 001 | REACHED GOAL  | Steps: 24
+Episode 002 | CRASHED       | Steps: 7
+Episode 003 | REACHED GOAL  | Steps: 22
+Episode 004 | CRASHED       | Steps: 6
+Episode 005 | CRASHED       | Steps: 10
+Episode 006 | CRASHED       | Steps: 11
+Episode 007 | CRASHED       | Steps: 22
+Episode 008 | REACHED GOAL  | Steps: 22
+Episode 009 | CRASHED       | Steps: 7
+Episode 010 | CRASHED       | Steps: 19
+Episode 011 | LOOP          | Steps: 26
+Episode 012 | REACHED GOAL  | Steps: 22
+Episode 013 | REACHED GOAL  | Steps: 22
+Episode 014 | CRASHED       | Steps: 4
+Episode 015 | REACHED GOAL  | Steps: 22
+Episode 016 | REACHED GOAL  | Steps: 22
+Episode 017 | REACHED GOAL  | Steps: 24
+Episode 018 | REACHED GOAL  | Steps: 22
+Episode 019 | CRASHED       | Steps: 1
+Episode 020 | REACHED GOAL  | Steps: 22
+Episode 021 | REACHED GOAL  | Steps: 22
+Episode 022 | REACHED GOAL  | Steps: 22
+Episode 023 | CRASHED       | Steps: 19
+Episode 024 | REACHED GOAL  | Steps: 22
+Episode 025 | CRASHED       | Steps: 12
+Episode 026 | REACHED GOAL  | Steps: 22
+Episode 027 | REACHED GOAL  | Steps: 22
+Episode 028 | CRASHED       | Steps: 14
+Episode 029 | CRASHED       | Steps: 22
+Episode 030 | REACHED GOAL  | Steps: 22
+Episode 031 | REACHED GOAL  | Steps: 22
+Episode 032 | CRASHED       | Steps: 8
+Episode 033 | REACHED GOAL  | Steps: 22
+Episode 034 | REACHED GOAL  | Steps: 22
+Episode 035 | REACHED GOAL  | Steps: 24
+Episode 036 | CRASHED       | Steps: 15
+Episode 037 | REACHED GOAL  | Steps: 22
+Episode 038 | CRASHED       | Steps: 11
+Episode 039 | CRASHED       | Steps: 8
+Episode 040 | REACHED GOAL  | Steps: 22
+Episode 041 | REACHED GOAL  | Steps: 22
+Episode 042 | REACHED GOAL  | Steps: 22
+Episode 043 | REACHED GOAL  | Steps: 22
+Episode 044 | REACHED GOAL  | Steps: 24
+Episode 045 | CRASHED       | Steps: 6
+Episode 046 | CRASHED       | Steps: 8
+Episode 047 | REACHED GOAL  | Steps: 22
+Episode 048 | CRASHED       | Steps: 1
+Episode 049 | CRASHED       | Steps: 12
+Episode 050 | REACHED GOAL  | Steps: 22
+Episode 051 | REACHED GOAL  | Steps: 22
+Episode 052 | CRASHED       | Steps: 5
+Episode 053 | CRASHED       | Steps: 9
+Episode 054 | REACHED GOAL  | Steps: 22
+Episode 055 | REACHED GOAL  | Steps: 22
+Episode 056 | CRASHED       | Steps: 10
+Episode 057 | REACHED GOAL  | Steps: 22
+Episode 058 | CRASHED       | Steps: 16
+Episode 059 | REACHED GOAL  | Steps: 22
+Episode 060 | REACHED GOAL  | Steps: 23
+Episode 061 | CRASHED       | Steps: 9
+Episode 062 | REACHED GOAL  | Steps: 22
+Episode 063 | CRASHED       | Steps: 20
+Episode 064 | REACHED GOAL  | Steps: 22
+Episode 065 | REACHED GOAL  | Steps: 22
+Episode 066 | CRASHED       | Steps: 19
+Episode 067 | REACHED GOAL  | Steps: 25
+Episode 068 | REACHED GOAL  | Steps: 22
+Episode 069 | REACHED GOAL  | Steps: 22
+Episode 070 | CRASHED       | Steps: 5
+Episode 071 | CRASHED       | Steps: 15
+Episode 072 | CRASHED       | Steps: 14
+Episode 073 | REACHED GOAL  | Steps: 22
+Episode 074 | CRASHED       | Steps: 8
+Episode 075 | REACHED GOAL  | Steps: 22
+Episode 076 | REACHED GOAL  | Steps: 22
+Episode 077 | REACHED GOAL  | Steps: 22
+Episode 078 | LOOP          | Steps: 28
+Episode 079 | REACHED GOAL  | Steps: 23
+Episode 080 | REACHED GOAL  | Steps: 22
+Episode 081 | CRASHED       | Steps: 13
+Episode 082 | REACHED GOAL  | Steps: 22
+Episode 083 | REACHED GOAL  | Steps: 22
+Episode 084 | CRASHED       | Steps: 16
+Episode 085 | CRASHED       | Steps: 10
+Episode 086 | REACHED GOAL  | Steps: 22
+Episode 087 | CRASHED       | Steps: 6
+Episode 088 | CRASHED       | Steps: 14
+Episode 089 | CRASHED       | Steps: 15
+Episode 090 | REACHED GOAL  | Steps: 22
+Episode 091 | REACHED GOAL  | Steps: 22
+Episode 092 | CRASHED       | Steps: 5
+Episode 093 | CRASHED       | Steps: 5
+Episode 094 | REACHED GOAL  | Steps: 22
+Episode 095 | REACHED GOAL  | Steps: 22
+Episode 096 | REACHED GOAL  | Steps: 22
+Episode 097 | CRASHED       | Steps: 18
+Episode 098 | CRASHED       | Steps: 12
+Episode 099 | CRASHED       | Steps: 20
+Episode 100 | REACHED GOAL  | Steps: 22
+
+================ FINAL COMPARISON ================
+
+Q-LEARNING RESULTS
+{'success': 66, 'crash': 33, 'loop': 1, 'timeout': 0, 'steps': [26, 22, 4, 19, 23, 22, 23, 22, 22, 13, 5, 22, 13, 22, 23, 22, 16, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 26, 23, 22, 14, 22, 7, 22, 22, 22, 22, 23, 11, 12, 22, 22, 12, 16, 22, 3, 22, 12, 11, 19, 22, 22, 22, 22, 23, 24, 8, 22, 22, 22, 2, 22, 22, 24, 12, 23, 19, 11, 15, 22, 22, 22, 22, 1, 22, 23, 17, 22, 18, 2, 23, 6, 22, 17, 22, 10, 16, 22, 22, 23, 16, 22, 22, 4, 22, 23]}
+
+APF RESULTS
+{'success': 55, 'crash': 43, 'loop': 2, 'timeout': 0, 'steps': [24, 7, 22, 6, 10, 11, 22, 22, 7, 19, 26, 22, 22, 4, 22, 22, 24, 22, 1, 22, 22, 22, 19, 22, 12, 22, 22, 14, 22, 22, 22, 8, 22, 22, 24, 15, 22, 11, 8, 22, 22, 22, 22, 24, 6, 8, 22, 1, 12, 22, 22, 5, 9, 22, 22, 10, 22, 16, 22, 23, 9, 22, 20, 22, 22, 19, 25, 22, 22, 5, 15, 14, 22, 8, 22, 22, 22, 28, 23, 22, 13, 22, 22, 16, 10, 22, 6, 14, 15, 22, 22, 5, 5, 22, 22, 22, 18, 12, 20, 22]}
+
+Success Rate Comparison
+Q-Learning Success Rate : 66%
+APF Success Rate        : 55%
+
+v3
+
+coca@coca-Precision-5530:~/Desktop/Minor_Project/Aditya_Robotics_project/v2$ /usr/bin/python3 Compare_APF.py
+
+===== RUNNING Q_LEARNING AGENT =====
+
+Episode 001 | LOOP          | Steps: 24
+Episode 002 | CRASHED       | Steps: 7
+Episode 003 | REACHED GOAL  | Steps: 22
+Episode 004 | REACHED GOAL  | Steps: 22
+Episode 005 | CRASHED       | Steps: 9
+Episode 006 | REACHED GOAL  | Steps: 22
+Episode 007 | REACHED GOAL  | Steps: 22
+Episode 008 | CRASHED       | Steps: 14
+Episode 009 | REACHED GOAL  | Steps: 24
+Episode 010 | REACHED GOAL  | Steps: 22
+Episode 011 | REACHED GOAL  | Steps: 25
+Episode 012 | CRASHED       | Steps: 15
+Episode 013 | REACHED GOAL  | Steps: 26
+Episode 014 | REACHED GOAL  | Steps: 22
+Episode 015 | CRASHED       | Steps: 7
+Episode 016 | REACHED GOAL  | Steps: 22
+Episode 017 | CRASHED       | Steps: 17
+Episode 018 | REACHED GOAL  | Steps: 24
+Episode 019 | CRASHED       | Steps: 11
+Episode 020 | REACHED GOAL  | Steps: 24
+Episode 021 | CRASHED       | Steps: 5
+Episode 022 | REACHED GOAL  | Steps: 22
+Episode 023 | REACHED GOAL  | Steps: 22
+Episode 024 | REACHED GOAL  | Steps: 22
+Episode 025 | REACHED GOAL  | Steps: 22
+Episode 026 | REACHED GOAL  | Steps: 22
+Episode 027 | LOOP          | Steps: 24
+Episode 028 | REACHED GOAL  | Steps: 22
+Episode 029 | REACHED GOAL  | Steps: 22
+Episode 030 | REACHED GOAL  | Steps: 22
+Episode 031 | REACHED GOAL  | Steps: 22
+Episode 032 | CRASHED       | Steps: 15
+Episode 033 | REACHED GOAL  | Steps: 22
+Episode 034 | CRASHED       | Steps: 16
+Episode 035 | REACHED GOAL  | Steps: 22
+Episode 036 | CRASHED       | Steps: 15
+Episode 037 | REACHED GOAL  | Steps: 22
+Episode 038 | CRASHED       | Steps: 17
+Episode 039 | REACHED GOAL  | Steps: 22
+Episode 040 | REACHED GOAL  | Steps: 22
+Episode 041 | REACHED GOAL  | Steps: 22
+Episode 042 | REACHED GOAL  | Steps: 22
+Episode 043 | REACHED GOAL  | Steps: 22
+Episode 044 | REACHED GOAL  | Steps: 22
+Episode 045 | REACHED GOAL  | Steps: 24
+Episode 046 | REACHED GOAL  | Steps: 23
+Episode 047 | CRASHED       | Steps: 18
+Episode 048 | CRASHED       | Steps: 16
+Episode 049 | REACHED GOAL  | Steps: 22
+Episode 050 | REACHED GOAL  | Steps: 22
+Episode 051 | CRASHED       | Steps: 1
+Episode 052 | CRASHED       | Steps: 16
+Episode 053 | REACHED GOAL  | Steps: 22
+Episode 054 | CRASHED       | Steps: 7
+Episode 055 | CRASHED       | Steps: 20
+Episode 056 | CRASHED       | Steps: 14
+Episode 057 | REACHED GOAL  | Steps: 22
+Episode 058 | CRASHED       | Steps: 18
+Episode 059 | REACHED GOAL  | Steps: 22
+Episode 060 | CRASHED       | Steps: 7
+Episode 061 | CRASHED       | Steps: 5
+Episode 062 | CRASHED       | Steps: 3
+Episode 063 | CRASHED       | Steps: 17
+Episode 064 | REACHED GOAL  | Steps: 22
+Episode 065 | CRASHED       | Steps: 5
+Episode 066 | CRASHED       | Steps: 6
+Episode 067 | REACHED GOAL  | Steps: 22
+Episode 068 | REACHED GOAL  | Steps: 22
+Episode 069 | REACHED GOAL  | Steps: 22
+Episode 070 | REACHED GOAL  | Steps: 22
+Episode 071 | REACHED GOAL  | Steps: 22
+Episode 072 | CRASHED       | Steps: 5
+Episode 073 | CRASHED       | Steps: 2
+Episode 074 | CRASHED       | Steps: 11
+Episode 075 | REACHED GOAL  | Steps: 22
+Episode 076 | REACHED GOAL  | Steps: 24
+Episode 077 | REACHED GOAL  | Steps: 22
+Episode 078 | REACHED GOAL  | Steps: 22
+Episode 079 | REACHED GOAL  | Steps: 22
+Episode 080 | REACHED GOAL  | Steps: 22
+Episode 081 | REACHED GOAL  | Steps: 23
+Episode 082 | REACHED GOAL  | Steps: 22
+Episode 083 | REACHED GOAL  | Steps: 22
+Episode 084 | REACHED GOAL  | Steps: 22
+Episode 085 | REACHED GOAL  | Steps: 23
+Episode 086 | CRASHED       | Steps: 15
+Episode 087 | REACHED GOAL  | Steps: 22
+Episode 088 | REACHED GOAL  | Steps: 22
+Episode 089 | REACHED GOAL  | Steps: 24
+Episode 090 | REACHED GOAL  | Steps: 22
+Episode 091 | REACHED GOAL  | Steps: 22
+Episode 092 | REACHED GOAL  | Steps: 26
+Episode 093 | CRASHED       | Steps: 7
+Episode 094 | REACHED GOAL  | Steps: 22
+Episode 095 | REACHED GOAL  | Steps: 22
+Episode 096 | REACHED GOAL  | Steps: 22
+Episode 097 | CRASHED       | Steps: 1
+Episode 098 | REACHED GOAL  | Steps: 22
+Episode 099 | CRASHED       | Steps: 1
+Episode 100 | CRASHED       | Steps: 16
+
+===== RUNNING APF AGENT =====
+
+Episode 001 | CRASHED       | Steps: 8
+Episode 002 | REACHED GOAL  | Steps: 22
+Episode 003 | REACHED GOAL  | Steps: 22
+Episode 004 | CRASHED       | Steps: 10
+Episode 005 | CRASHED       | Steps: 14
+Episode 006 | CRASHED       | Steps: 11
+Episode 007 | CRASHED       | Steps: 11
+Episode 008 | CRASHED       | Steps: 2
+Episode 009 | CRASHED       | Steps: 6
+Episode 010 | CRASHED       | Steps: 5
+Episode 011 | REACHED GOAL  | Steps: 22
+Episode 012 | REACHED GOAL  | Steps: 22
+Episode 013 | REACHED GOAL  | Steps: 22
+Episode 014 | REACHED GOAL  | Steps: 22
+Episode 015 | CRASHED       | Steps: 15
+Episode 016 | CRASHED       | Steps: 11
+Episode 017 | CRASHED       | Steps: 7
+Episode 018 | REACHED GOAL  | Steps: 22
+Episode 019 | CRASHED       | Steps: 4
+Episode 020 | CRASHED       | Steps: 9
+Episode 021 | REACHED GOAL  | Steps: 22
+Episode 022 | CRASHED       | Steps: 5
+Episode 023 | CRASHED       | Steps: 21
+Episode 024 | REACHED GOAL  | Steps: 22
+Episode 025 | CRASHED       | Steps: 5
+Episode 026 | REACHED GOAL  | Steps: 22
+Episode 027 | LOOP          | Steps: 26
+Episode 028 | REACHED GOAL  | Steps: 22
+Episode 029 | REACHED GOAL  | Steps: 22
+Episode 030 | REACHED GOAL  | Steps: 22
+Episode 031 | REACHED GOAL  | Steps: 22
+Episode 032 | REACHED GOAL  | Steps: 22
+Episode 033 | CRASHED       | Steps: 22
+Episode 034 | REACHED GOAL  | Steps: 22
+Episode 035 | CRASHED       | Steps: 9
+Episode 036 | REACHED GOAL  | Steps: 22
+Episode 037 | CRASHED       | Steps: 4
+Episode 038 | CRASHED       | Steps: 13
+Episode 039 | CRASHED       | Steps: 10
+Episode 040 | REACHED GOAL  | Steps: 22
+Episode 041 | REACHED GOAL  | Steps: 22
+Episode 042 | CRASHED       | Steps: 17
+Episode 043 | REACHED GOAL  | Steps: 22
+Episode 044 | REACHED GOAL  | Steps: 22
+Episode 045 | CRASHED       | Steps: 8
+Episode 046 | CRASHED       | Steps: 17
+Episode 047 | CRASHED       | Steps: 3
+Episode 048 | CRASHED       | Steps: 9
+Episode 049 | CRASHED       | Steps: 10
+Episode 050 | REACHED GOAL  | Steps: 23
+Episode 051 | CRASHED       | Steps: 4
+Episode 052 | CRASHED       | Steps: 6
+Episode 053 | CRASHED       | Steps: 17
+Episode 054 | CRASHED       | Steps: 8
+Episode 055 | CRASHED       | Steps: 10
+Episode 056 | REACHED GOAL  | Steps: 22
+Episode 057 | CRASHED       | Steps: 10
+Episode 058 | CRASHED       | Steps: 17
+Episode 059 | REACHED GOAL  | Steps: 22
+Episode 060 | CRASHED       | Steps: 17
+Episode 061 | CRASHED       | Steps: 2
+Episode 062 | CRASHED       | Steps: 18
+Episode 063 | CRASHED       | Steps: 11
+Episode 064 | REACHED GOAL  | Steps: 22
+Episode 065 | REACHED GOAL  | Steps: 22
+Episode 066 | REACHED GOAL  | Steps: 22
+Episode 067 | CRASHED       | Steps: 10
+Episode 068 | CRASHED       | Steps: 19
+Episode 069 | REACHED GOAL  | Steps: 22
+Episode 070 | REACHED GOAL  | Steps: 22
+Episode 071 | REACHED GOAL  | Steps: 22
+Episode 072 | CRASHED       | Steps: 7
+Episode 073 | REACHED GOAL  | Steps: 22
+Episode 074 | REACHED GOAL  | Steps: 22
+Episode 075 | REACHED GOAL  | Steps: 22
+Episode 076 | REACHED GOAL  | Steps: 22
+Episode 077 | CRASHED       | Steps: 16
+Episode 078 | CRASHED       | Steps: 10
+Episode 079 | REACHED GOAL  | Steps: 22
+Episode 080 | REACHED GOAL  | Steps: 22
+Episode 081 | REACHED GOAL  | Steps: 22
+Episode 082 | CRASHED       | Steps: 6
+Episode 083 | REACHED GOAL  | Steps: 22
+Episode 084 | CRASHED       | Steps: 12
+Episode 085 | REACHED GOAL  | Steps: 25
+Episode 086 | CRASHED       | Steps: 9
+Episode 087 | REACHED GOAL  | Steps: 22
+Episode 088 | REACHED GOAL  | Steps: 22
+Episode 089 | CRASHED       | Steps: 15
+Episode 090 | CRASHED       | Steps: 19
+Episode 091 | CRASHED       | Steps: 13
+Episode 092 | CRASHED       | Steps: 12
+Episode 093 | CRASHED       | Steps: 9
+Episode 094 | CRASHED       | Steps: 17
+Episode 095 | REACHED GOAL  | Steps: 24
+Episode 096 | CRASHED       | Steps: 1
+Episode 097 | REACHED GOAL  | Steps: 22
+Episode 098 | REACHED GOAL  | Steps: 22
+Episode 099 | CRASHED       | Steps: 7
+Episode 100 | REACHED GOAL  | Steps: 22
+
+================ FINAL COMPARISON ================
+
+Q-LEARNING RESULTS
+{'success': 64, 'crash': 34, 'loop': 2, 'timeout': 0, 'steps': [24, 7, 22, 22, 9, 22, 22, 14, 24, 22, 25, 15, 26, 22, 7, 22, 17, 24, 11, 24, 5, 22, 22, 22, 22, 22, 24, 22, 22, 22, 22, 15, 22, 16, 22, 15, 22, 17, 22, 22, 22, 22, 22, 22, 24, 23, 18, 16, 22, 22, 1, 16, 22, 7, 20, 14, 22, 18, 22, 7, 5, 3, 17, 22, 5, 6, 22, 22, 22, 22, 22, 5, 2, 11, 22, 24, 22, 22, 22, 22, 23, 22, 22, 22, 23, 15, 22, 22, 24, 22, 22, 26, 7, 22, 22, 22, 1, 22, 1, 16]}
+
+APF RESULTS
+{'success': 45, 'crash': 54, 'loop': 1, 'timeout': 0, 'steps': [8, 22, 22, 10, 14, 11, 11, 2, 6, 5, 22, 22, 22, 22, 15, 11, 7, 22, 4, 9, 22, 5, 21, 22, 5, 22, 26, 22, 22, 22, 22, 22, 22, 22, 9, 22, 4, 13, 10, 22, 22, 17, 22, 22, 8, 17, 3, 9, 10, 23, 4, 6, 17, 8, 10, 22, 10, 17, 22, 17, 2, 18, 11, 22, 22, 22, 10, 19, 22, 22, 22, 7, 22, 22, 22, 22, 16, 10, 22, 22, 22, 6, 22, 12, 25, 9, 22, 22, 15, 19, 13, 12, 9, 17, 24, 1, 22, 22, 7, 22]}
+
+Success Rate Comparison
+Q-Learning Success Rate : 64%
+APF Success Rate        : 45%
+
+
+
+-----------------------------------------------------------------1000---------------------------------------------
+v1
+================ FINAL COMPARISON ================
+
+Q-LEARNING RESULTS
+{'success': 482, 'crash': 500, 'loop': 18, 'timeout': 0, 'steps': [17, 5, 22, 24, 24, 14, 22, 22, 23, 2, 24, 8, 10, 26, 22, 8, 26, 2, 16, 24, 20, 22, 23, 24, 22, 4, 22, 30, 8, 20, 22, 7, 17, 22, 22, 22, 16, 16, 22, 22, 20, 22, 22, 12, 2, 24, 18, 22, 22, 11, 24, 17, 17, 6, 2, 26, 22, 22, 22, 7, 22, 22, 22, 5, 5, 24, 26, 24, 23, 22, 17, 5, 12, 27, 4, 22, 14, 24, 24, 24, 22, 24, 22, 22, 9, 10, 22, 18, 9, 7, 13, 24, 24, 22, 22, 13, 2, 7, 12, 14, 2, 28, 24, 16, 22, 6, 15, 22, 22, 14, 11, 18, 24, 22, 14, 5, 24, 23, 26, 22, 22, 22, 22, 7, 22, 22, 16, 1, 22, 22, 22, 22, 9, 22, 22, 22, 10, 24, 22, 12, 9, 23, 22, 15, 26, 22, 24, 22, 5, 22, 22, 22, 24, 25, 22, 10, 21, 5, 22, 22, 22, 24, 3, 7, 22, 18, 13, 7, 8, 24, 22, 30, 1, 26, 10, 22, 15, 22, 23, 26, 15, 10, 11, 22, 26, 22, 20, 10, 22, 22, 24, 10, 22, 20, 8, 21, 17, 26, 16, 22, 7, 22, 26, 24, 22, 4, 22, 5, 13, 20, 13, 11, 13, 22, 22, 24, 25, 22, 26, 22, 11, 7, 22, 25, 24, 24, 23, 6, 22, 24, 17, 22, 22, 6, 22, 22, 24, 9, 4, 22, 24, 22, 22, 24, 26, 24, 22, 22, 22, 24, 22, 9, 9, 22, 16, 7, 4, 10, 24, 22, 22, 22, 6, 22, 10, 24, 24, 17, 8, 15, 9, 14, 8, 12, 22, 22, 8, 9, 22, 22, 1, 7, 6, 22, 14, 22, 26, 22, 22, 22, 28, 26, 22, 3, 11, 17, 24, 6, 22, 21, 19, 6, 24, 19, 7, 26, 24, 7, 20, 27, 5, 11, 24, 22, 24, 21, 11, 22, 9, 19, 24, 14, 11, 24, 22, 24, 4, 13, 10, 22, 22, 13, 3, 6, 22, 24, 4, 22, 22, 22, 9, 20, 23, 22, 6, 10, 22, 12, 22, 20, 22, 20, 9, 8, 11, 22, 8, 4, 8, 7, 24, 10, 8, 24, 22, 22, 8, 24, 8, 5, 20, 22, 15, 22, 12, 22, 17, 22, 7, 6, 11, 18, 22, 7, 26, 22, 13, 22, 22, 24, 23, 18, 19, 26, 6, 8, 22, 9, 22, 10, 24, 7, 26, 10, 16, 6, 22, 9, 19, 15, 13, 9, 22, 12, 3, 5, 25, 25, 22, 12, 6, 26, 22, 11, 24, 17, 22, 16, 20, 16, 26, 26, 15, 13, 5, 21, 24, 14, 23, 20, 20, 22, 22, 22, 22, 22, 22, 12, 1, 8, 24, 15, 24, 24, 6, 22, 18, 18, 24, 12, 24, 24, 24, 24, 7, 5, 14, 26, 7, 22, 24, 6, 22, 3, 22, 10, 24, 2, 23, 24, 1, 14, 20, 22, 16, 13, 22, 20, 20, 13, 22, 17, 11, 17, 4, 26, 22, 7, 24, 22, 25, 22, 26, 10, 3, 22, 16, 22, 28, 17, 21, 22, 8, 22, 20, 10, 2, 28, 6, 22, 7, 22, 22, 22, 9, 20, 22, 22, 20, 22, 12, 13, 22, 22, 28, 9, 4, 22, 22, 22, 22, 6, 8, 22, 23, 25, 10, 22, 22, 10, 1, 17, 5, 22, 24, 22, 6, 22, 24, 27, 7, 4, 24, 22, 22, 22, 10, 16, 26, 11, 26, 11, 24, 6, 8, 22, 24, 22, 1, 16, 9, 22, 3, 2, 15, 3, 3, 10, 6, 23, 22, 3, 25, 22, 22, 16, 26, 22, 22, 22, 22, 22, 22, 22, 5, 2, 20, 25, 12, 22, 24, 22, 22, 11, 22, 24, 22, 24, 24, 22, 24, 22, 22, 8, 11, 22, 22, 1, 22, 10, 22, 17, 4, 24, 16, 15, 2, 18, 24, 22, 24, 22, 3, 7, 16, 22, 15, 9, 6, 22, 4, 23, 11, 22, 24, 13, 24, 22, 24, 11, 22, 23, 24, 7, 14, 3, 26, 22, 17, 3, 11, 3, 23, 22, 18, 26, 24, 24, 22, 22, 15, 25, 22, 14, 12, 24, 3, 11, 22, 11, 1, 22, 22, 5, 24, 7, 22, 3, 6, 5, 25, 22, 17, 12, 22, 14, 5, 9, 16, 22, 7, 10, 17, 8, 22, 7, 22, 22, 20, 8, 12, 4, 4, 24, 22, 12, 22, 5, 22, 22, 22, 15, 22, 22, 22, 22, 9, 4, 13, 22, 9, 12, 22, 22, 22, 26, 22, 22, 22, 22, 23, 22, 6, 8, 4, 22, 24, 3, 8, 12, 4, 22, 22, 15, 13, 12, 22, 5, 8, 22, 22, 24, 24, 22, 9, 22, 7, 6, 22, 19, 6, 18, 22, 24, 13, 5, 22, 22, 22, 6, 22, 22, 22, 1, 9, 16, 24, 28, 24, 2, 22, 11, 10, 22, 22, 22, 22, 9, 17, 5, 5, 22, 16, 9, 22, 5, 23, 8, 22, 22, 7, 22, 31, 22, 3, 15, 24, 22, 8, 22, 13, 26, 24, 3, 22, 10, 18, 22, 22, 7, 11, 18, 22, 22, 22, 22, 5, 5, 4, 24, 7, 7, 24, 16, 22, 22, 24, 9, 24, 22, 22, 22, 27, 9, 22, 12, 22, 8, 15, 24, 12, 8, 24, 5, 21, 12, 6, 22, 14, 22, 22, 9, 20, 10, 3, 8, 6, 24, 1, 22, 6, 22, 23, 24, 11, 22, 22, 16, 22, 8, 13, 15, 17, 21, 9, 13, 22, 22, 14, 2, 22, 22, 14, 19, 7, 22, 13, 24, 24, 26, 24, 26, 13, 22, 24, 9, 12, 24, 22, 21, 22, 12, 24, 22, 22, 16, 22, 8, 22, 10, 8, 22, 24, 28, 22, 1, 22, 20, 22, 24, 8, 10, 22, 3, 5, 22, 22, 24, 22, 10, 14, 28, 24, 28, 30, 26, 3, 10, 24, 21, 11, 22, 7, 22, 22, 15, 8, 9, 22, 13, 10, 22, 9, 1, 21, 24, 22, 9, 24, 16, 4, 13, 7, 22, 20, 22, 2, 8, 26, 2]}
+
+APF RESULTS
+{'success': 478, 'crash': 504, 'loop': 18, 'timeout': 0, 'steps': [22, 24, 12, 24, 22, 12, 25, 22, 9, 22, 26, 11, 9, 13, 6, 11, 22, 16, 22, 22, 22, 22, 22, 18, 4, 18, 22, 10, 6, 22, 18, 7, 24, 22, 9, 11, 22, 15, 5, 24, 22, 9, 25, 9, 22, 22, 22, 9, 8, 22, 12, 14, 15, 8, 10, 21, 22, 22, 22, 24, 10, 22, 22, 22, 22, 20, 24, 22, 11, 10, 22, 22, 16, 22, 6, 8, 22, 22, 22, 22, 7, 6, 2, 11, 22, 24, 19, 10, 12, 22, 7, 12, 22, 9, 9, 16, 22, 20, 22, 22, 22, 7, 5, 13, 22, 7, 8, 22, 8, 13, 22, 16, 22, 17, 25, 22, 22, 22, 1, 22, 22, 17, 13, 18, 9, 22, 17, 22, 6, 22, 25, 14, 8, 22, 22, 2, 5, 22, 18, 11, 22, 10, 22, 22, 19, 25, 22, 22, 22, 2, 22, 16, 8, 22, 2, 22, 22, 20, 10, 18, 12, 22, 18, 22, 25, 22, 22, 22, 22, 22, 22, 22, 6, 22, 22, 5, 13, 4, 19, 15, 8, 22, 22, 22, 6, 22, 22, 10, 22, 22, 22, 6, 22, 22, 22, 15, 2, 4, 16, 22, 22, 10, 22, 22, 8, 6, 9, 11, 9, 22, 22, 25, 8, 22, 13, 22, 20, 22, 22, 8, 26, 11, 22, 22, 16, 22, 22, 6, 22, 4, 10, 22, 7, 22, 22, 22, 8, 22, 4, 8, 22, 22, 37, 15, 22, 15, 22, 15, 8, 22, 10, 7, 7, 22, 22, 22, 1, 5, 25, 17, 22, 22, 20, 11, 12, 13, 14, 22, 4, 11, 22, 12, 22, 14, 22, 22, 14, 22, 22, 22, 10, 22, 22, 22, 30, 15, 8, 6, 22, 22, 22, 11, 22, 1, 10, 13, 11, 22, 15, 22, 17, 22, 22, 22, 13, 22, 11, 22, 24, 23, 17, 22, 2, 22, 1, 10, 4, 22, 7, 22, 22, 20, 2, 3, 22, 22, 22, 22, 12, 22, 12, 12, 11, 6, 7, 22, 22, 20, 6, 2, 22, 5, 16, 22, 22, 17, 22, 26, 22, 20, 22, 7, 6, 20, 22, 4, 22, 25, 10, 22, 3, 5, 22, 25, 8, 9, 24, 4, 24, 6, 22, 10, 6, 20, 13, 14, 22, 22, 10, 22, 22, 22, 23, 25, 22, 10, 5, 10, 24, 11, 18, 22, 10, 25, 12, 4, 16, 10, 22, 22, 22, 14, 23, 22, 13, 22, 22, 22, 22, 6, 1, 10, 4, 22, 22, 22, 16, 25, 10, 22, 8, 7, 22, 4, 17, 4, 22, 16, 22, 16, 22, 22, 22, 13, 22, 22, 10, 8, 31, 8, 10, 22, 22, 28, 22, 22, 22, 16, 8, 22, 22, 22, 22, 22, 25, 9, 22, 12, 7, 22, 18, 22, 4, 25, 22, 22, 22, 22, 22, 22, 12, 9, 22, 9, 22, 12, 2, 10, 10, 22, 22, 22, 11, 1, 22, 22, 1, 6, 22, 5, 18, 22, 22, 18, 14, 18, 28, 22, 7, 2, 22, 24, 22, 22, 22, 22, 11, 20, 7, 8, 11, 22, 24, 22, 22, 13, 22, 13, 16, 16, 22, 11, 22, 22, 13, 22, 13, 22, 22, 23, 22, 8, 22, 22, 22, 27, 13, 22, 14, 6, 22, 8, 22, 22, 8, 22, 22, 9, 4, 8, 22, 25, 12, 9, 22, 22, 22, 22, 12, 22, 7, 22, 8, 8, 12, 8, 22, 22, 22, 22, 13, 25, 22, 22, 9, 22, 20, 22, 10, 5, 4, 22, 16, 17, 26, 24, 10, 15, 2, 22, 14, 9, 22, 18, 22, 11, 22, 25, 22, 14, 24, 22, 1, 22, 8, 5, 18, 22, 22, 13, 6, 8, 12, 22, 22, 22, 11, 9, 22, 22, 22, 11, 22, 4, 14, 22, 15, 8, 14, 22, 4, 22, 7, 22, 17, 12, 18, 23, 26, 22, 22, 15, 10, 8, 22, 15, 22, 9, 1, 6, 9, 22, 21, 11, 13, 22, 22, 25, 8, 9, 6, 22, 22, 6, 22, 23, 22, 7, 24, 22, 22, 22, 19, 14, 6, 22, 22, 9, 22, 7, 8, 22, 10, 14, 22, 14, 24, 22, 20, 28, 22, 17, 9, 18, 4, 22, 22, 6, 13, 22, 14, 22, 22, 22, 24, 11, 10, 14, 14, 13, 22, 5, 13, 22, 3, 2, 22, 10, 22, 7, 5, 5, 14, 22, 22, 9, 22, 23, 7, 4, 22, 22, 5, 22, 22, 10, 14, 4, 22, 22, 15, 20, 9, 22, 22, 18, 9, 17, 22, 6, 24, 22, 9, 22, 22, 9, 22, 22, 22, 13, 22, 20, 10, 16, 22, 9, 6, 22, 22, 22, 22, 22, 22, 20, 12, 24, 22, 22, 4, 20, 8, 22, 18, 22, 22, 22, 16, 7, 12, 8, 9, 18, 7, 14, 4, 22, 6, 18, 22, 11, 22, 5, 22, 25, 16, 7, 22, 6, 10, 5, 9, 18, 8, 22, 22, 5, 2, 8, 13, 24, 8, 22, 4, 6, 12, 4, 7, 23, 24, 2, 26, 23, 22, 22, 7, 16, 22, 22, 8, 14, 13, 4, 9, 22, 22, 22, 22, 13, 22, 8, 13, 22, 8, 22, 22, 17, 22, 10, 25, 22, 22, 11, 4, 22, 22, 8, 22, 6, 22, 22, 6, 22, 12, 14, 22, 19, 22, 22, 22, 22, 24, 22, 8, 1, 22, 22, 20, 14, 22, 22, 14, 9, 22, 22, 10, 22, 11, 2, 22, 22, 21, 22, 16, 5, 22, 1, 8, 10, 1, 11, 22, 22, 11, 16, 9, 22, 22, 12, 20, 32, 21, 22, 24, 23, 9, 17, 22, 15, 3, 22, 22, 22, 4, 1, 22, 9, 13, 22, 22, 22, 22, 8, 22, 16, 22, 4, 6, 22, 14, 1, 5, 13, 25, 11, 11, 22, 22, 6, 22, 22, 22, 10, 22, 10, 22, 13, 7, 8, 3, 22, 6, 22, 11, 22, 8, 22, 22, 22, 22, 12, 6, 12, 9, 15, 22, 26, 22, 20, 9, 22, 22, 4, 8, 22, 22, 22, 22, 14, 22, 22]}
+
+Success Rate Comparison
+Q-Learning Success Rate : 482%
+APF Success Rate        : 478%
+
+
+v2 
+
+
+================ FINAL COMPARISON ================
+
+Q-LEARNING RESULTS
+{'success': 642, 'crash': 350, 'loop': 8, 'timeout': 0, 'steps': [8, 22, 22, 22, 2, 5, 22, 22, 22, 22, 22, 23, 22, 23, 20, 14, 5, 24, 22, 20, 24, 4, 23, 22, 22, 22, 23, 17, 1, 22, 16, 18, 23, 21, 9, 24, 14, 4, 22, 22, 26, 22, 22, 23, 23, 22, 13, 22, 24, 22, 22, 22, 17, 22, 22, 19, 16, 23, 22, 22, 22, 22, 22, 22, 22, 22, 23, 23, 23, 24, 6, 22, 22, 25, 22, 15, 6, 22, 17, 22, 22, 23, 22, 22, 23, 22, 24, 22, 5, 15, 23, 22, 22, 25, 22, 6, 12, 18, 19, 8, 22, 22, 21, 22, 22, 1, 23, 22, 22, 20, 22, 4, 22, 22, 22, 22, 22, 9, 22, 7, 6, 5, 22, 22, 22, 22, 22, 22, 17, 22, 13, 23, 15, 17, 22, 22, 5, 22, 22, 22, 5, 15, 22, 22, 15, 22, 22, 22, 16, 24, 22, 23, 2, 22, 22, 22, 22, 5, 22, 22, 20, 22, 22, 22, 1, 14, 24, 5, 22, 22, 23, 21, 18, 23, 22, 22, 22, 22, 22, 22, 12, 9, 22, 22, 22, 22, 12, 23, 23, 14, 10, 22, 6, 12, 22, 22, 22, 22, 22, 23, 23, 25, 22, 22, 19, 22, 22, 22, 22, 22, 22, 14, 22, 22, 22, 8, 7, 22, 3, 3, 7, 14, 22, 4, 15, 22, 23, 20, 11, 22, 22, 4, 22, 23, 22, 22, 7, 22, 22, 24, 22, 23, 22, 22, 23, 22, 22, 12, 4, 23, 22, 10, 10, 15, 15, 22, 6, 22, 17, 13, 22, 23, 22, 22, 20, 22, 22, 22, 22, 22, 22, 18, 18, 22, 23, 8, 10, 22, 22, 22, 22, 22, 22, 24, 7, 23, 5, 12, 22, 25, 5, 22, 22, 22, 19, 22, 16, 5, 22, 19, 22, 24, 22, 22, 22, 25, 24, 23, 25, 24, 4, 3, 24, 8, 22, 22, 22, 5, 24, 14, 22, 22, 17, 22, 22, 24, 22, 22, 22, 23, 22, 26, 22, 22, 8, 22, 23, 9, 11, 8, 21, 22, 22, 22, 22, 1, 22, 7, 22, 22, 6, 2, 22, 22, 22, 23, 24, 5, 6, 22, 22, 22, 22, 22, 19, 8, 18, 23, 9, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 7, 5, 22, 6, 22, 1, 22, 11, 8, 7, 22, 22, 22, 22, 17, 22, 23, 16, 22, 23, 22, 22, 22, 23, 13, 2, 24, 24, 22, 22, 23, 21, 15, 20, 22, 22, 22, 22, 22, 22, 23, 22, 15, 22, 24, 22, 22, 22, 22, 17, 22, 22, 22, 7, 22, 22, 22, 22, 17, 22, 10, 13, 22, 13, 17, 22, 22, 22, 22, 22, 22, 12, 10, 22, 23, 8, 22, 12, 11, 22, 22, 22, 22, 22, 22, 5, 4, 23, 23, 22, 10, 2, 21, 8, 23, 12, 17, 22, 22, 22, 16, 11, 9, 18, 22, 22, 11, 22, 7, 6, 5, 7, 14, 22, 23, 22, 25, 22, 8, 22, 22, 23, 22, 22, 22, 8, 22, 23, 22, 23, 22, 22, 22, 6, 22, 24, 22, 4, 22, 22, 22, 16, 22, 22, 22, 16, 22, 7, 22, 13, 9, 7, 22, 22, 22, 9, 22, 22, 22, 22, 20, 22, 22, 22, 17, 15, 22, 22, 14, 6, 25, 16, 22, 22, 22, 22, 23, 22, 28, 11, 6, 22, 22, 22, 24, 17, 22, 22, 22, 22, 24, 22, 22, 22, 22, 22, 22, 22, 22, 11, 5, 23, 4, 22, 8, 22, 22, 22, 8, 22, 22, 12, 22, 22, 5, 11, 22, 22, 22, 22, 22, 22, 22, 22, 22, 3, 18, 22, 22, 16, 22, 7, 5, 3, 14, 22, 22, 15, 5, 21, 22, 22, 22, 5, 22, 20, 22, 10, 24, 24, 22, 6, 22, 22, 17, 23, 22, 22, 22, 22, 2, 26, 11, 23, 1, 21, 22, 22, 4, 22, 22, 22, 24, 22, 22, 22, 23, 22, 22, 22, 22, 8, 2, 9, 22, 22, 9, 24, 24, 14, 22, 22, 22, 17, 23, 22, 5, 22, 23, 22, 22, 10, 23, 22, 22, 22, 23, 22, 4, 22, 9, 22, 21, 22, 18, 22, 24, 22, 13, 10, 23, 15, 22, 22, 22, 22, 22, 23, 22, 7, 22, 12, 3, 24, 25, 22, 22, 17, 18, 15, 22, 24, 22, 22, 22, 22, 22, 24, 22, 22, 7, 25, 18, 27, 4, 22, 4, 22, 23, 20, 2, 19, 4, 14, 24, 22, 24, 2, 5, 18, 19, 22, 14, 19, 22, 22, 26, 22, 22, 17, 22, 14, 1, 1, 17, 22, 22, 7, 22, 22, 2, 22, 22, 22, 13, 22, 2, 22, 19, 22, 18, 1, 22, 16, 22, 25, 22, 14, 12, 22, 22, 8, 12, 22, 22, 22, 22, 3, 22, 22, 12, 20, 2, 6, 23, 23, 22, 22, 20, 22, 22, 24, 22, 23, 14, 22, 24, 4, 7, 22, 23, 22, 5, 22, 13, 22, 22, 20, 22, 22, 16, 12, 16, 24, 9, 22, 22, 22, 22, 22, 8, 22, 24, 25, 22, 7, 25, 11, 22, 22, 22, 24, 22, 22, 22, 22, 22, 22, 22, 20, 23, 22, 22, 24, 5, 22, 23, 21, 22, 23, 22, 22, 10, 6, 24, 13, 18, 9, 18, 22, 2, 24, 18, 22, 8, 22, 22, 5, 3, 14, 7, 22, 24, 22, 22, 14, 16, 22, 22, 22, 24, 22, 10, 22, 23, 22, 22, 2, 22, 22, 22, 23, 15, 22, 22, 20, 22, 22, 22, 22, 23, 14, 7, 22, 24, 16, 22, 9, 22, 20, 25, 22, 19, 22, 18, 22, 25, 6, 22, 12, 22, 17, 24, 4, 9, 24, 22, 22, 22, 22, 17, 22, 8, 6, 22, 22, 7, 22, 22, 22, 22, 20, 22, 23, 22, 7, 9, 12, 22, 25, 22, 23, 2, 12, 22, 22, 10, 22, 3, 15, 22, 26, 4, 24, 22, 24, 7, 7, 1, 23, 12, 22, 19, 6, 22, 22, 22, 22, 22]}
+
+APF RESULTS
+{'success': 477, 'crash': 496, 'loop': 27, 'timeout': 0, 'steps': [26, 8, 22, 25, 22, 2, 20, 24, 22, 22, 22, 15, 22, 22, 14, 24, 2, 17, 22, 20, 22, 16, 23, 22, 1, 10, 9, 20, 22, 22, 20, 14, 14, 22, 22, 10, 22, 4, 14, 22, 22, 22, 23, 22, 22, 16, 19, 22, 22, 5, 24, 10, 14, 22, 7, 22, 8, 15, 22, 22, 22, 22, 22, 17, 10, 22, 10, 22, 8, 21, 22, 10, 24, 20, 22, 8, 4, 12, 6, 4, 22, 22, 25, 6, 22, 22, 9, 22, 22, 22, 2, 25, 12, 9, 2, 6, 22, 22, 8, 9, 4, 12, 24, 8, 9, 22, 14, 10, 13, 22, 15, 14, 22, 22, 22, 9, 4, 3, 6, 5, 10, 22, 22, 9, 19, 14, 22, 22, 22, 30, 6, 5, 9, 10, 19, 8, 24, 33, 27, 31, 13, 4, 22, 5, 8, 8, 4, 11, 9, 14, 22, 22, 22, 11, 22, 9, 22, 22, 22, 22, 25, 22, 22, 22, 12, 9, 13, 22, 1, 4, 22, 20, 22, 8, 22, 13, 17, 22, 3, 22, 7, 2, 14, 3, 22, 14, 22, 5, 22, 10, 12, 22, 9, 22, 4, 11, 26, 9, 9, 9, 24, 17, 20, 11, 22, 9, 22, 22, 24, 22, 25, 22, 11, 23, 20, 22, 22, 6, 22, 18, 13, 22, 22, 9, 5, 9, 22, 2, 4, 6, 22, 6, 7, 22, 16, 22, 22, 16, 22, 6, 22, 22, 6, 22, 22, 22, 22, 12, 12, 22, 22, 4, 9, 2, 26, 22, 17, 12, 8, 22, 16, 15, 22, 1, 22, 22, 22, 22, 9, 22, 4, 22, 13, 4, 22, 22, 7, 22, 13, 22, 3, 4, 22, 15, 15, 22, 22, 8, 18, 7, 16, 13, 22, 22, 22, 11, 12, 22, 16, 22, 22, 3, 14, 11, 22, 22, 22, 11, 22, 22, 22, 22, 22, 22, 22, 22, 22, 12, 22, 5, 8, 3, 22, 22, 4, 13, 11, 13, 22, 10, 15, 22, 4, 15, 14, 5, 22, 14, 8, 4, 22, 26, 22, 22, 26, 17, 22, 8, 22, 11, 13, 18, 22, 22, 7, 22, 2, 6, 22, 20, 22, 22, 5, 2, 22, 10, 10, 20, 22, 2, 22, 7, 12, 5, 22, 7, 22, 22, 27, 22, 22, 22, 8, 22, 8, 2, 6, 26, 22, 12, 22, 22, 22, 22, 4, 26, 16, 22, 22, 25, 10, 22, 19, 6, 22, 9, 3, 10, 19, 22, 5, 22, 22, 6, 22, 22, 22, 16, 22, 22, 14, 12, 22, 8, 6, 22, 6, 2, 22, 22, 13, 8, 4, 15, 8, 22, 22, 8, 22, 25, 22, 22, 22, 22, 22, 6, 15, 8, 24, 22, 11, 11, 3, 14, 8, 22, 3, 24, 25, 1, 22, 22, 22, 4, 8, 22, 8, 6, 9, 14, 23, 22, 22, 8, 22, 5, 22, 4, 22, 22, 6, 11, 23, 22, 23, 22, 30, 1, 22, 27, 13, 23, 11, 25, 22, 19, 22, 6, 22, 21, 6, 10, 11, 19, 22, 22, 6, 8, 22, 6, 22, 22, 4, 20, 7, 18, 22, 22, 5, 18, 22, 4, 25, 22, 26, 6, 22, 22, 24, 22, 2, 22, 19, 21, 27, 22, 22, 20, 28, 8, 10, 11, 7, 28, 25, 19, 12, 22, 22, 22, 22, 18, 24, 6, 22, 22, 22, 2, 21, 2, 22, 22, 19, 5, 22, 12, 22, 16, 22, 22, 22, 22, 15, 22, 22, 10, 11, 5, 10, 12, 22, 22, 19, 8, 22, 22, 22, 22, 9, 22, 20, 15, 13, 22, 22, 22, 16, 22, 22, 22, 25, 22, 22, 22, 8, 5, 6, 13, 13, 16, 22, 22, 22, 14, 22, 6, 2, 22, 22, 18, 13, 22, 11, 17, 15, 22, 22, 22, 28, 4, 24, 14, 19, 2, 7, 22, 22, 9, 22, 22, 22, 22, 12, 22, 22, 22, 22, 22, 10, 10, 22, 5, 2, 8, 10, 6, 2, 22, 18, 22, 22, 22, 9, 12, 24, 4, 22, 12, 4, 4, 12, 22, 4, 4, 20, 5, 22, 22, 2, 13, 17, 22, 3, 16, 6, 7, 22, 22, 6, 24, 22, 2, 8, 12, 22, 10, 10, 22, 20, 22, 15, 24, 4, 14, 23, 6, 7, 22, 8, 4, 22, 4, 23, 20, 9, 12, 22, 22, 22, 22, 22, 22, 24, 22, 2, 15, 22, 22, 22, 22, 9, 22, 22, 14, 11, 10, 5, 22, 22, 14, 12, 22, 22, 2, 22, 22, 14, 16, 26, 22, 8, 22, 22, 26, 6, 13, 16, 12, 2, 14, 24, 22, 12, 22, 22, 12, 5, 14, 8, 12, 22, 22, 22, 22, 22, 22, 9, 22, 6, 23, 22, 3, 18, 7, 22, 22, 24, 20, 20, 16, 13, 22, 22, 24, 22, 22, 24, 22, 10, 12, 4, 11, 12, 22, 16, 22, 22, 9, 22, 4, 23, 12, 22, 22, 22, 2, 18, 22, 22, 8, 24, 22, 17, 22, 22, 22, 22, 22, 17, 14, 22, 8, 12, 19, 22, 17, 10, 25, 22, 5, 22, 22, 22, 22, 22, 22, 22, 2, 4, 22, 8, 25, 22, 22, 12, 10, 22, 11, 22, 9, 11, 9, 24, 14, 23, 22, 22, 14, 18, 6, 8, 22, 20, 22, 22, 22, 22, 22, 22, 22, 5, 14, 20, 8, 22, 25, 22, 22, 22, 22, 22, 22, 18, 8, 18, 30, 14, 22, 22, 22, 22, 24, 5, 26, 22, 10, 4, 5, 22, 15, 7, 1, 16, 22, 24, 22, 22, 16, 22, 28, 22, 31, 7, 9, 22, 17, 22, 22, 15, 22, 6, 7, 15, 10, 25, 10, 10, 11, 22, 6, 19, 7, 22, 32, 10, 17, 16, 3, 24, 22, 22, 9, 22, 9, 8, 19, 6, 10, 22, 26, 22, 11, 22, 22, 11, 22, 16, 10, 22, 1, 22, 6, 22, 22, 6, 22, 22, 22, 22, 22, 22, 22, 6, 22, 10, 2, 10, 22, 22, 22, 22, 20, 22, 22, 7, 14, 22, 22, 17, 22]}
+
+Success Rate Comparison
+Q-Learning Success Rate : 642%
+APF Success Rate        : 477%
+
+
+v3 
+
+
+Q-LEARNING RESULTS
+{'success': 617, 'crash': 373, 'loop': 10, 'timeout': 0, 'steps': [22, 23, 22, 22, 22, 22, 19, 13, 10, 4, 22, 6, 22, 22, 21, 25, 5, 24, 22, 5, 22, 3, 18, 22, 22, 22, 22, 6, 13, 6, 4, 7, 14, 22, 17, 22, 21, 9, 16, 22, 14, 22, 22, 22, 6, 22, 22, 23, 22, 21, 22, 22, 24, 22, 22, 12, 9, 22, 11, 1, 23, 22, 23, 22, 11, 22, 22, 5, 24, 7, 10, 22, 22, 22, 22, 22, 22, 18, 22, 2, 8, 22, 23, 22, 12, 23, 18, 10, 22, 17, 22, 7, 15, 7, 24, 22, 7, 4, 22, 17, 22, 22, 22, 22, 24, 22, 23, 22, 1, 24, 7, 4, 8, 19, 22, 1, 22, 22, 22, 22, 25, 7, 4, 22, 1, 24, 16, 1, 22, 16, 9, 22, 21, 22, 22, 23, 6, 6, 22, 23, 22, 22, 22, 14, 18, 16, 12, 22, 22, 5, 23, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 9, 24, 22, 22, 5, 22, 22, 1, 22, 24, 22, 17, 22, 23, 13, 24, 18, 16, 16, 22, 22, 22, 13, 18, 5, 22, 7, 22, 22, 3, 4, 25, 16, 22, 15, 22, 22, 22, 22, 15, 4, 22, 22, 19, 23, 3, 22, 22, 6, 3, 2, 22, 20, 22, 22, 7, 22, 22, 22, 22, 12, 22, 9, 22, 22, 22, 1, 6, 22, 27, 18, 22, 22, 22, 22, 22, 22, 23, 22, 16, 22, 22, 22, 22, 14, 22, 22, 3, 22, 22, 22, 18, 13, 22, 22, 22, 5, 22, 22, 22, 22, 3, 23, 5, 6, 22, 25, 22, 22, 8, 23, 22, 15, 22, 14, 21, 22, 22, 22, 22, 1, 19, 22, 3, 22, 18, 22, 17, 22, 5, 22, 11, 22, 12, 22, 22, 8, 14, 22, 22, 6, 22, 22, 22, 22, 9, 7, 22, 10, 7, 10, 22, 22, 11, 15, 20, 22, 22, 4, 23, 22, 5, 22, 22, 9, 22, 22, 6, 22, 22, 24, 22, 18, 22, 18, 2, 23, 22, 20, 22, 24, 6, 22, 11, 21, 24, 20, 22, 8, 22, 10, 14, 10, 6, 22, 22, 22, 22, 22, 8, 22, 22, 23, 16, 14, 9, 22, 24, 22, 22, 2, 25, 22, 22, 8, 21, 22, 10, 22, 22, 24, 22, 22, 22, 22, 22, 22, 22, 20, 22, 22, 22, 22, 22, 13, 10, 21, 17, 1, 22, 22, 10, 16, 22, 22, 22, 23, 22, 22, 10, 23, 16, 22, 16, 24, 22, 24, 22, 22, 18, 4, 22, 22, 18, 22, 8, 22, 22, 22, 22, 5, 22, 14, 8, 22, 22, 22, 4, 24, 21, 23, 5, 22, 18, 22, 24, 22, 17, 22, 6, 22, 22, 4, 23, 11, 22, 22, 22, 22, 17, 22, 22, 11, 23, 22, 22, 7, 20, 22, 22, 5, 22, 20, 22, 11, 22, 22, 3, 22, 22, 22, 22, 11, 22, 7, 22, 22, 22, 22, 22, 22, 15, 7, 22, 19, 5, 22, 22, 22, 24, 22, 22, 22, 4, 14, 22, 6, 22, 12, 19, 9, 8, 19, 22, 22, 22, 24, 22, 22, 13, 18, 22, 19, 22, 22, 22, 24, 22, 24, 22, 1, 11, 7, 22, 14, 22, 4, 22, 22, 21, 22, 22, 22, 22, 22, 22, 24, 13, 14, 24, 22, 9, 22, 22, 23, 22, 22, 24, 7, 22, 22, 22, 23, 22, 22, 22, 22, 22, 22, 22, 22, 22, 14, 22, 22, 4, 22, 15, 14, 8, 22, 14, 22, 23, 1, 20, 22, 22, 22, 22, 22, 21, 22, 22, 22, 22, 26, 22, 15, 23, 23, 22, 16, 10, 14, 22, 23, 13, 22, 22, 15, 22, 22, 22, 22, 6, 22, 19, 24, 22, 22, 23, 24, 22, 22, 23, 2, 22, 16, 24, 22, 8, 5, 10, 23, 22, 10, 18, 13, 22, 18, 6, 22, 22, 5, 23, 13, 22, 5, 9, 22, 22, 22, 14, 22, 24, 16, 6, 23, 22, 22, 22, 16, 24, 22, 11, 18, 5, 22, 15, 22, 22, 11, 22, 22, 22, 13, 9, 22, 4, 22, 22, 4, 6, 22, 13, 20, 6, 22, 22, 22, 22, 22, 12, 18, 16, 22, 22, 22, 22, 23, 20, 15, 19, 6, 22, 24, 9, 1, 18, 1, 22, 22, 16, 24, 22, 22, 23, 22, 22, 22, 22, 22, 14, 22, 22, 22, 22, 2, 9, 22, 22, 5, 22, 8, 23, 3, 25, 13, 22, 22, 22, 25, 22, 7, 22, 12, 19, 21, 23, 22, 22, 5, 4, 22, 22, 22, 22, 22, 24, 22, 13, 22, 22, 22, 8, 22, 22, 14, 22, 7, 22, 22, 22, 22, 23, 23, 22, 24, 22, 22, 22, 22, 22, 16, 10, 22, 11, 23, 22, 22, 22, 22, 23, 22, 23, 10, 24, 22, 22, 22, 7, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 23, 23, 21, 22, 22, 22, 19, 13, 22, 22, 23, 22, 8, 5, 15, 23, 22, 10, 11, 22, 22, 22, 23, 20, 22, 22, 8, 22, 22, 11, 22, 22, 8, 22, 22, 22, 22, 20, 23, 22, 23, 22, 22, 25, 23, 22, 23, 4, 23, 25, 22, 22, 19, 22, 23, 20, 2, 22, 8, 22, 22, 2, 22, 1, 11, 22, 21, 23, 22, 22, 21, 22, 17, 10, 22, 15, 23, 22, 12, 18, 3, 11, 22, 22, 22, 22, 22, 24, 5, 22, 22, 8, 22, 3, 22, 22, 21, 22, 22, 10, 22, 14, 22, 6, 23, 22, 23, 22, 22, 21, 9, 16, 10, 12, 22, 22, 22, 22, 23, 22, 16, 19, 22, 22, 19, 20, 24, 22, 6, 22, 22, 24, 1, 22, 22, 4, 22, 12, 22, 22, 22, 13, 17, 22, 6, 22, 23, 14, 22, 22, 21, 15, 22, 22, 22, 13, 4, 8, 24, 22, 4, 22, 22, 7, 23, 9, 14, 22, 23, 7, 22, 18, 22, 10, 22, 22, 22, 16, 15, 22, 22, 23, 13, 22, 22, 9]}
+
+APF RESULTS
+{'success': 460, 'crash': 519, 'loop': 21, 'timeout': 0, 'steps': [22, 5, 12, 10, 22, 10, 22, 18, 22, 4, 22, 22, 22, 24, 7, 24, 8, 22, 25, 8, 22, 22, 16, 22, 3, 3, 4, 22, 13, 10, 22, 22, 22, 22, 8, 7, 22, 12, 22, 3, 10, 2, 20, 8, 22, 22, 22, 24, 11, 13, 14, 22, 11, 14, 26, 6, 22, 13, 1, 16, 22, 12, 1, 15, 13, 22, 15, 23, 24, 12, 5, 16, 9, 22, 18, 4, 4, 22, 22, 22, 23, 22, 1, 22, 15, 10, 22, 6, 24, 22, 22, 8, 9, 15, 5, 8, 22, 6, 12, 9, 9, 10, 11, 25, 8, 4, 18, 11, 22, 5, 22, 22, 6, 7, 5, 8, 22, 3, 6, 20, 6, 22, 22, 4, 1, 5, 22, 22, 3, 24, 11, 15, 14, 22, 7, 22, 9, 22, 10, 11, 13, 11, 30, 11, 22, 9, 10, 11, 22, 24, 10, 22, 25, 22, 12, 22, 22, 22, 22, 22, 17, 25, 22, 22, 9, 23, 9, 22, 22, 16, 14, 25, 22, 22, 6, 22, 25, 20, 22, 8, 22, 10, 22, 10, 22, 22, 26, 22, 14, 25, 5, 7, 9, 24, 16, 22, 22, 23, 22, 11, 22, 22, 8, 10, 18, 22, 7, 12, 15, 11, 7, 22, 22, 22, 3, 22, 17, 22, 11, 9, 22, 22, 16, 11, 25, 9, 22, 22, 22, 2, 22, 22, 6, 12, 17, 10, 4, 4, 22, 19, 9, 22, 22, 22, 12, 20, 22, 22, 16, 22, 22, 22, 22, 9, 21, 8, 6, 22, 22, 22, 22, 19, 22, 12, 16, 22, 22, 7, 22, 17, 17, 22, 22, 17, 22, 10, 11, 12, 22, 6, 12, 6, 22, 22, 23, 22, 22, 22, 10, 22, 4, 14, 22, 11, 22, 22, 22, 7, 22, 9, 22, 22, 22, 22, 8, 1, 22, 23, 6, 5, 13, 24, 9, 22, 8, 27, 12, 8, 13, 22, 11, 20, 10, 31, 22, 22, 25, 8, 22, 9, 11, 22, 22, 8, 11, 5, 22, 22, 14, 3, 2, 21, 22, 13, 22, 22, 22, 9, 22, 10, 22, 8, 22, 22, 22, 22, 6, 22, 8, 22, 5, 5, 23, 2, 22, 21, 22, 10, 18, 15, 22, 16, 25, 22, 8, 7, 11, 22, 22, 12, 22, 22, 26, 22, 16, 22, 8, 12, 22, 22, 3, 14, 22, 22, 11, 22, 22, 4, 13, 6, 11, 22, 6, 3, 4, 22, 23, 22, 9, 6, 22, 13, 22, 14, 4, 22, 22, 18, 23, 22, 22, 22, 22, 18, 2, 22, 10, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 9, 4, 22, 22, 12, 24, 10, 23, 19, 11, 11, 22, 22, 22, 22, 18, 22, 9, 10, 22, 8, 12, 5, 22, 22, 22, 14, 13, 22, 10, 22, 26, 22, 22, 22, 4, 8, 22, 22, 22, 22, 15, 20, 22, 11, 4, 22, 22, 22, 22, 22, 22, 24, 12, 22, 10, 9, 6, 11, 22, 22, 4, 22, 22, 12, 9, 22, 24, 22, 22, 7, 20, 9, 12, 22, 8, 19, 6, 22, 22, 22, 25, 28, 10, 22, 28, 22, 6, 22, 22, 22, 22, 10, 16, 22, 20, 6, 22, 3, 22, 22, 17, 22, 22, 11, 22, 9, 22, 7, 22, 8, 16, 10, 4, 12, 14, 10, 4, 25, 22, 14, 22, 22, 9, 22, 12, 15, 19, 9, 15, 22, 22, 22, 22, 10, 8, 16, 8, 13, 10, 22, 19, 22, 8, 12, 4, 15, 5, 22, 22, 22, 22, 18, 22, 16, 22, 4, 2, 14, 22, 1, 22, 9, 22, 22, 22, 20, 22, 18, 22, 8, 24, 17, 22, 8, 22, 7, 12, 22, 22, 17, 22, 22, 22, 18, 22, 22, 22, 20, 22, 3, 11, 19, 12, 22, 1, 9, 6, 14, 22, 14, 22, 22, 22, 22, 22, 2, 24, 22, 6, 19, 14, 4, 22, 24, 5, 5, 11, 8, 11, 16, 27, 22, 5, 12, 6, 7, 20, 12, 6, 22, 22, 22, 22, 2, 22, 22, 15, 22, 22, 10, 10, 22, 22, 22, 9, 22, 7, 22, 11, 3, 15, 3, 8, 17, 22, 9, 6, 22, 6, 22, 22, 22, 22, 22, 22, 22, 9, 22, 2, 13, 22, 22, 22, 22, 22, 9, 24, 22, 22, 7, 22, 15, 22, 11, 22, 22, 13, 25, 22, 20, 1, 22, 9, 9, 22, 22, 4, 18, 16, 6, 4, 10, 19, 22, 22, 22, 22, 22, 10, 13, 22, 10, 22, 13, 20, 18, 9, 12, 22, 15, 7, 22, 2, 22, 6, 25, 22, 11, 9, 22, 12, 5, 22, 19, 16, 17, 22, 22, 22, 8, 2, 24, 22, 12, 11, 23, 14, 14, 18, 22, 11, 22, 12, 14, 22, 13, 16, 22, 10, 22, 22, 3, 7, 4, 8, 22, 19, 19, 22, 22, 6, 22, 23, 8, 22, 25, 4, 22, 25, 22, 7, 14, 22, 22, 22, 22, 22, 22, 22, 22, 14, 17, 22, 22, 22, 5, 22, 22, 16, 22, 19, 14, 12, 8, 11, 22, 12, 12, 22, 15, 5, 28, 6, 14, 23, 22, 14, 14, 34, 22, 22, 22, 22, 28, 6, 4, 22, 9, 22, 22, 5, 21, 22, 24, 22, 22, 8, 7, 17, 10, 22, 22, 22, 22, 26, 22, 2, 15, 22, 13, 11, 22, 22, 30, 4, 7, 8, 6, 22, 8, 22, 4, 23, 22, 22, 24, 15, 22, 25, 22, 4, 14, 5, 5, 11, 22, 22, 7, 22, 10, 12, 22, 22, 9, 14, 22, 8, 6, 22, 22, 12, 19, 1, 9, 23, 5, 14, 3, 19, 22, 5, 22, 11, 24, 9, 3, 7, 20, 2, 13, 16, 15, 8, 19, 2, 16, 11, 22, 16, 10, 22, 10, 22, 22, 5, 22, 5, 22, 23, 13, 1, 10, 7, 22, 22, 22, 4, 22, 22, 15, 10, 25, 14, 22, 4, 18, 9, 6, 15, 10, 5, 22, 3, 8, 22, 6, 22, 13, 12, 22, 3, 22]}
+
+Success Rate Comparison
+Q-Learning Success Rate : 617%
+APF Success Rate        : 460%
+
+
+
+
+
+
+

@@ -1,0 +1,331 @@
+v1  Training on 5000
+- ===== TESTING TRAINED AGENT (100 EPISODES) =====
+
+Episode 001 | Result: REACHED GOAL    | Steps: 24
+Episode 002 | Result: REACHED GOAL    | Steps: 22
+Episode 003 | Result: STUCK IN LOOP   | Steps: 18
+Episode 004 | Result: CRASHED         | Steps: 13
+Episode 005 | Result: REACHED GOAL    | Steps: 22
+Episode 006 | Result: REACHED GOAL    | Steps: 22
+Episode 007 | Result: CRASHED         | Steps: 14
+Episode 008 | Result: CRASHED         | Steps: 8
+Episode 009 | Result: CRASHED         | Steps: 9
+Episode 010 | Result: REACHED GOAL    | Steps: 24
+Episode 011 | Result: REACHED GOAL    | Steps: 22
+Episode 012 | Result: CRASHED         | Steps: 1
+Episode 013 | Result: REACHED GOAL    | Steps: 22
+Episode 014 | Result: REACHED GOAL    | Steps: 22
+Episode 015 | Result: CRASHED         | Steps: 23
+Episode 016 | Result: REACHED GOAL    | Steps: 24
+Episode 017 | Result: CRASHED         | Steps: 11
+Episode 018 | Result: CRASHED         | Steps: 14
+Episode 019 | Result: REACHED GOAL    | Steps: 24
+Episode 020 | Result: REACHED GOAL    | Steps: 22
+Episode 021 | Result: REACHED GOAL    | Steps: 22
+Episode 022 | Result: CRASHED         | Steps: 9
+Episode 023 | Result: CRASHED         | Steps: 10
+Episode 024 | Result: CRASHED         | Steps: 4
+Episode 025 | Result: CRASHED         | Steps: 23
+Episode 026 | Result: REACHED GOAL    | Steps: 24
+Episode 027 | Result: CRASHED         | Steps: 8
+Episode 028 | Result: CRASHED         | Steps: 18
+Episode 029 | Result: CRASHED         | Steps: 7
+Episode 030 | Result: CRASHED         | Steps: 6
+Episode 031 | Result: REACHED GOAL    | Steps: 26
+Episode 032 | Result: REACHED GOAL    | Steps: 22
+Episode 033 | Result: REACHED GOAL    | Steps: 22
+Episode 034 | Result: REACHED GOAL    | Steps: 26
+Episode 035 | Result: CRASHED         | Steps: 3
+Episode 036 | Result: CRASHED         | Steps: 10
+Episode 037 | Result: CRASHED         | Steps: 7
+Episode 038 | Result: CRASHED         | Steps: 6
+Episode 039 | Result: REACHED GOAL    | Steps: 22
+Episode 040 | Result: REACHED GOAL    | Steps: 22
+Episode 041 | Result: REACHED GOAL    | Steps: 22
+Episode 042 | Result: REACHED GOAL    | Steps: 22
+Episode 043 | Result: CRASHED         | Steps: 20
+Episode 044 | Result: CRASHED         | Steps: 5
+Episode 045 | Result: REACHED GOAL    | Steps: 22
+Episode 046 | Result: CRASHED         | Steps: 11
+Episode 047 | Result: CRASHED         | Steps: 7
+Episode 048 | Result: CRASHED         | Steps: 16
+Episode 049 | Result: REACHED GOAL    | Steps: 24
+Episode 050 | Result: CRASHED         | Steps: 17
+Episode 051 | Result: REACHED GOAL    | Steps: 22
+Episode 052 | Result: REACHED GOAL    | Steps: 26
+Episode 053 | Result: REACHED GOAL    | Steps: 22
+Episode 054 | Result: CRASHED         | Steps: 15
+Episode 055 | Result: CRASHED         | Steps: 15
+Episode 056 | Result: REACHED GOAL    | Steps: 22
+Episode 057 | Result: CRASHED         | Steps: 14
+Episode 058 | Result: CRASHED         | Steps: 4
+Episode 059 | Result: REACHED GOAL    | Steps: 24
+Episode 060 | Result: CRASHED         | Steps: 20
+Episode 061 | Result: CRASHED         | Steps: 13
+Episode 062 | Result: REACHED GOAL    | Steps: 22
+Episode 063 | Result: CRASHED         | Steps: 8
+Episode 064 | Result: REACHED GOAL    | Steps: 26
+Episode 065 | Result: REACHED GOAL    | Steps: 22
+Episode 066 | Result: REACHED GOAL    | Steps: 22
+Episode 067 | Result: REACHED GOAL    | Steps: 24
+Episode 068 | Result: REACHED GOAL    | Steps: 24
+Episode 069 | Result: REACHED GOAL    | Steps: 22
+Episode 070 | Result: REACHED GOAL    | Steps: 25
+Episode 071 | Result: CRASHED         | Steps: 3
+Episode 072 | Result: CRASHED         | Steps: 11
+Episode 073 | Result: REACHED GOAL    | Steps: 22
+Episode 074 | Result: REACHED GOAL    | Steps: 22
+Episode 075 | Result: REACHED GOAL    | Steps: 25
+Episode 076 | Result: REACHED GOAL    | Steps: 22
+Episode 077 | Result: REACHED GOAL    | Steps: 22
+Episode 078 | Result: CRASHED         | Steps: 8
+Episode 079 | Result: REACHED GOAL    | Steps: 24
+Episode 080 | Result: CRASHED         | Steps: 2
+Episode 081 | Result: CRASHED         | Steps: 8
+Episode 082 | Result: CRASHED         | Steps: 10
+Episode 083 | Result: CRASHED         | Steps: 5
+Episode 084 | Result: CRASHED         | Steps: 3
+Episode 085 | Result: CRASHED         | Steps: 8
+Episode 086 | Result: CRASHED         | Steps: 7
+Episode 087 | Result: CRASHED         | Steps: 3
+Episode 088 | Result: CRASHED         | Steps: 6
+Episode 089 | Result: CRASHED         | Steps: 14
+Episode 090 | Result: REACHED GOAL    | Steps: 22
+Episode 091 | Result: CRASHED         | Steps: 4
+Episode 092 | Result: REACHED GOAL    | Steps: 22
+Episode 093 | Result: CRASHED         | Steps: 4
+Episode 094 | Result: REACHED GOAL    | Steps: 22
+Episode 095 | Result: CRASHED         | Steps: 10
+Episode 096 | Result: CRASHED         | Steps: 6
+Episode 097 | Result: CRASHED         | Steps: 5
+Episode 098 | Result: REACHED GOAL    | Steps: 24
+Episode 099 | Result: REACHED GOAL    | Steps: 26
+Episode 100 | Result: CRASHED         | Steps: 7
+
+===== FINAL SUMMARY =====
+Total Episodes      : 100
+Reached Goal        : 47
+Crashed             : 52
+Stuck in Loop       : 1
+Max Steps Reached   : 0
+-------------------------------------------------------------------------------------------------------
+v2 - Training on 150000 
+Episode 001 | Result: REACHED GOAL    | Steps: 22
+Episode 002 | Result: REACHED GOAL    | Steps: 22
+Episode 003 | Result: REACHED GOAL    | Steps: 22
+Episode 004 | Result: REACHED GOAL    | Steps: 22
+Episode 005 | Result: REACHED GOAL    | Steps: 22
+Episode 006 | Result: REACHED GOAL    | Steps: 22
+Episode 007 | Result: REACHED GOAL    | Steps: 22
+Episode 008 | Result: REACHED GOAL    | Steps: 23
+Episode 009 | Result: REACHED GOAL    | Steps: 22
+Episode 010 | Result: CRASHED         | Steps: 14
+Episode 011 | Result: REACHED GOAL    | Steps: 22
+Episode 012 | Result: REACHED GOAL    | Steps: 22
+Episode 013 | Result: REACHED GOAL    | Steps: 22
+Episode 014 | Result: REACHED GOAL    | Steps: 23
+Episode 015 | Result: REACHED GOAL    | Steps: 22
+Episode 016 | Result: CRASHED         | Steps: 17
+Episode 017 | Result: CRASHED         | Steps: 5
+Episode 018 | Result: REACHED GOAL    | Steps: 22
+Episode 019 | Result: REACHED GOAL    | Steps: 22
+Episode 020 | Result: REACHED GOAL    | Steps: 22
+Episode 021 | Result: REACHED GOAL    | Steps: 24
+Episode 022 | Result: CRASHED         | Steps: 22
+Episode 023 | Result: REACHED GOAL    | Steps: 23
+Episode 024 | Result: REACHED GOAL    | Steps: 25
+Episode 025 | Result: CRASHED         | Steps: 16
+Episode 026 | Result: CRASHED         | Steps: 15
+Episode 027 | Result: CRASHED         | Steps: 5
+Episode 028 | Result: CRASHED         | Steps: 10
+Episode 029 | Result: REACHED GOAL    | Steps: 22
+Episode 030 | Result: REACHED GOAL    | Steps: 22
+Episode 031 | Result: REACHED GOAL    | Steps: 22
+Episode 032 | Result: REACHED GOAL    | Steps: 22
+Episode 033 | Result: REACHED GOAL    | Steps: 22
+Episode 034 | Result: REACHED GOAL    | Steps: 24
+Episode 035 | Result: REACHED GOAL    | Steps: 22
+Episode 036 | Result: REACHED GOAL    | Steps: 22
+Episode 037 | Result: REACHED GOAL    | Steps: 22
+Episode 038 | Result: REACHED GOAL    | Steps: 22
+Episode 039 | Result: REACHED GOAL    | Steps: 24
+Episode 040 | Result: CRASHED         | Steps: 13
+Episode 041 | Result: REACHED GOAL    | Steps: 22
+Episode 042 | Result: CRASHED         | Steps: 19
+Episode 043 | Result: CRASHED         | Steps: 13
+Episode 044 | Result: REACHED GOAL    | Steps: 22
+Episode 045 | Result: REACHED GOAL    | Steps: 22
+Episode 046 | Result: CRASHED         | Steps: 4
+Episode 047 | Result: REACHED GOAL    | Steps: 22
+Episode 048 | Result: CRASHED         | Steps: 5
+Episode 049 | Result: REACHED GOAL    | Steps: 24
+Episode 050 | Result: REACHED GOAL    | Steps: 24
+Episode 051 | Result: REACHED GOAL    | Steps: 22
+Episode 052 | Result: REACHED GOAL    | Steps: 22
+Episode 053 | Result: REACHED GOAL    | Steps: 23
+Episode 054 | Result: REACHED GOAL    | Steps: 22
+Episode 055 | Result: CRASHED         | Steps: 7
+Episode 056 | Result: REACHED GOAL    | Steps: 23
+Episode 057 | Result: CRASHED         | Steps: 20
+Episode 058 | Result: REACHED GOAL    | Steps: 22
+Episode 059 | Result: REACHED GOAL    | Steps: 22
+Episode 060 | Result: REACHED GOAL    | Steps: 22
+Episode 061 | Result: REACHED GOAL    | Steps: 22
+Episode 062 | Result: CRASHED         | Steps: 11
+Episode 063 | Result: REACHED GOAL    | Steps: 22
+Episode 064 | Result: REACHED GOAL    | Steps: 22
+Episode 065 | Result: CRASHED         | Steps: 9
+Episode 066 | Result: REACHED GOAL    | Steps: 22
+Episode 067 | Result: CRASHED         | Steps: 8
+Episode 068 | Result: REACHED GOAL    | Steps: 22
+Episode 069 | Result: REACHED GOAL    | Steps: 22
+Episode 070 | Result: CRASHED         | Steps: 9
+Episode 071 | Result: CRASHED         | Steps: 3
+Episode 072 | Result: REACHED GOAL    | Steps: 22
+Episode 073 | Result: CRASHED         | Steps: 5
+Episode 074 | Result: REACHED GOAL    | Steps: 22
+Episode 075 | Result: REACHED GOAL    | Steps: 22
+Episode 076 | Result: REACHED GOAL    | Steps: 22
+Episode 077 | Result: REACHED GOAL    | Steps: 22
+Episode 078 | Result: REACHED GOAL    | Steps: 22
+Episode 079 | Result: REACHED GOAL    | Steps: 22
+Episode 080 | Result: REACHED GOAL    | Steps: 22
+Episode 081 | Result: CRASHED         | Steps: 10
+Episode 082 | Result: CRASHED         | Steps: 4
+Episode 083 | Result: REACHED GOAL    | Steps: 22
+Episode 084 | Result: CRASHED         | Steps: 8
+Episode 085 | Result: CRASHED         | Steps: 15
+Episode 086 | Result: REACHED GOAL    | Steps: 22
+Episode 087 | Result: CRASHED         | Steps: 19
+Episode 088 | Result: REACHED GOAL    | Steps: 22
+Episode 089 | Result: CRASHED         | Steps: 11
+Episode 090 | Result: REACHED GOAL    | Steps: 22
+Episode 091 | Result: CRASHED         | Steps: 13
+Episode 092 | Result: CRASHED         | Steps: 3
+Episode 093 | Result: CRASHED         | Steps: 12
+Episode 094 | Result: REACHED GOAL    | Steps: 22
+Episode 095 | Result: REACHED GOAL    | Steps: 24
+Episode 096 | Result: CRASHED         | Steps: 4
+Episode 097 | Result: REACHED GOAL    | Steps: 22
+Episode 098 | Result: CRASHED         | Steps: 2
+Episode 099 | Result: CRASHED         | Steps: 10
+Episode 100 | Result: REACHED GOAL    | Steps: 22
+
+===== FINAL SUMMARY =====
+Total Episodes      : 100
+Reached Goal        : 67
+Crashed             : 33
+Stuck in Loop       : 0
+Max Steps Reached   : 0
+-------------------------------------------------------------------------------------------------------------------------------
+v3 - training on 1500000
+Episode 001 | Result: REACHED GOAL    | Steps: 23
+Episode 002 | Result: REACHED GOAL    | Steps: 22
+Episode 003 | Result: CRASHED         | Steps: 16
+Episode 004 | Result: REACHED GOAL    | Steps: 22
+Episode 005 | Result: REACHED GOAL    | Steps: 22
+Episode 006 | Result: REACHED GOAL    | Steps: 22
+Episode 007 | Result: REACHED GOAL    | Steps: 22
+Episode 008 | Result: REACHED GOAL    | Steps: 22
+Episode 009 | Result: REACHED GOAL    | Steps: 22
+Episode 010 | Result: CRASHED         | Steps: 7
+Episode 011 | Result: REACHED GOAL    | Steps: 23
+Episode 012 | Result: REACHED GOAL    | Steps: 22
+Episode 013 | Result: CRASHED         | Steps: 1
+Episode 014 | Result: CRASHED         | Steps: 6
+Episode 015 | Result: REACHED GOAL    | Steps: 22
+Episode 016 | Result: REACHED GOAL    | Steps: 22
+Episode 017 | Result: CRASHED         | Steps: 2
+Episode 018 | Result: REACHED GOAL    | Steps: 22
+Episode 019 | Result: REACHED GOAL    | Steps: 23
+Episode 020 | Result: REACHED GOAL    | Steps: 23
+Episode 021 | Result: CRASHED         | Steps: 8
+Episode 022 | Result: REACHED GOAL    | Steps: 22
+Episode 023 | Result: REACHED GOAL    | Steps: 22
+Episode 024 | Result: REACHED GOAL    | Steps: 22
+Episode 025 | Result: REACHED GOAL    | Steps: 22
+Episode 026 | Result: REACHED GOAL    | Steps: 22
+Episode 027 | Result: CRASHED         | Steps: 17
+Episode 028 | Result: CRASHED         | Steps: 9
+Episode 029 | Result: REACHED GOAL    | Steps: 22
+Episode 030 | Result: REACHED GOAL    | Steps: 22
+Episode 031 | Result: REACHED GOAL    | Steps: 22
+Episode 032 | Result: REACHED GOAL    | Steps: 26
+Episode 033 | Result: REACHED GOAL    | Steps: 22
+Episode 034 | Result: STUCK IN LOOP   | Steps: 25
+Episode 035 | Result: CRASHED         | Steps: 13
+Episode 036 | Result: REACHED GOAL    | Steps: 22
+Episode 037 | Result: CRASHED         | Steps: 15
+Episode 038 | Result: REACHED GOAL    | Steps: 22
+Episode 039 | Result: REACHED GOAL    | Steps: 22
+Episode 040 | Result: REACHED GOAL    | Steps: 22
+Episode 041 | Result: REACHED GOAL    | Steps: 22
+Episode 042 | Result: REACHED GOAL    | Steps: 22
+Episode 043 | Result: REACHED GOAL    | Steps: 23
+Episode 044 | Result: REACHED GOAL    | Steps: 22
+Episode 045 | Result: REACHED GOAL    | Steps: 22
+Episode 046 | Result: CRASHED         | Steps: 17
+Episode 047 | Result: REACHED GOAL    | Steps: 22
+Episode 048 | Result: CRASHED         | Steps: 5
+Episode 049 | Result: CRASHED         | Steps: 13
+Episode 050 | Result: CRASHED         | Steps: 13
+Episode 051 | Result: REACHED GOAL    | Steps: 22
+Episode 052 | Result: REACHED GOAL    | Steps: 22
+Episode 053 | Result: CRASHED         | Steps: 15
+Episode 054 | Result: REACHED GOAL    | Steps: 22
+Episode 055 | Result: CRASHED         | Steps: 4
+Episode 056 | Result: CRASHED         | Steps: 19
+Episode 057 | Result: REACHED GOAL    | Steps: 22
+Episode 058 | Result: REACHED GOAL    | Steps: 22
+Episode 059 | Result: REACHED GOAL    | Steps: 22
+Episode 060 | Result: STUCK IN LOOP   | Steps: 24
+Episode 061 | Result: REACHED GOAL    | Steps: 22
+Episode 062 | Result: CRASHED         | Steps: 15
+Episode 063 | Result: CRASHED         | Steps: 9
+Episode 064 | Result: CRASHED         | Steps: 15
+Episode 065 | Result: REACHED GOAL    | Steps: 22
+Episode 066 | Result: REACHED GOAL    | Steps: 22
+Episode 067 | Result: REACHED GOAL    | Steps: 22
+Episode 068 | Result: REACHED GOAL    | Steps: 22
+Episode 069 | Result: CRASHED         | Steps: 10
+Episode 070 | Result: CRASHED         | Steps: 15
+Episode 071 | Result: REACHED GOAL    | Steps: 22
+Episode 072 | Result: REACHED GOAL    | Steps: 22
+Episode 073 | Result: CRASHED         | Steps: 6
+Episode 074 | Result: REACHED GOAL    | Steps: 22
+Episode 075 | Result: REACHED GOAL    | Steps: 22
+Episode 076 | Result: CRASHED         | Steps: 3
+Episode 077 | Result: CRASHED         | Steps: 2
+Episode 078 | Result: CRASHED         | Steps: 11
+Episode 079 | Result: REACHED GOAL    | Steps: 22
+Episode 080 | Result: STUCK IN LOOP   | Steps: 24
+Episode 081 | Result: REACHED GOAL    | Steps: 25
+Episode 082 | Result: REACHED GOAL    | Steps: 25
+Episode 083 | Result: REACHED GOAL    | Steps: 22
+Episode 084 | Result: REACHED GOAL    | Steps: 24
+Episode 085 | Result: REACHED GOAL    | Steps: 22
+Episode 086 | Result: CRASHED         | Steps: 12
+Episode 087 | Result: REACHED GOAL    | Steps: 22
+Episode 088 | Result: REACHED GOAL    | Steps: 22
+Episode 089 | Result: CRASHED         | Steps: 16
+Episode 090 | Result: REACHED GOAL    | Steps: 22
+Episode 091 | Result: REACHED GOAL    | Steps: 24
+Episode 092 | Result: REACHED GOAL    | Steps: 22
+Episode 093 | Result: REACHED GOAL    | Steps: 22
+Episode 094 | Result: REACHED GOAL    | Steps: 22
+Episode 095 | Result: CRASHED         | Steps: 2
+Episode 096 | Result: REACHED GOAL    | Steps: 22
+Episode 097 | Result: REACHED GOAL    | Steps: 22
+Episode 098 | Result: CRASHED         | Steps: 18
+Episode 099 | Result: REACHED GOAL    | Steps: 22
+Episode 100 | Result: REACHED GOAL    | Steps: 22
+
+===== FINAL SUMMARY =====
+Total Episodes      : 100
+Reached Goal        : 67
+Crashed             : 30
+Stuck in Loop       : 3
+Max Steps Reached   : 0
+
+
+
